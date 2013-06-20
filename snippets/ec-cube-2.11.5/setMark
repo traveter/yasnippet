@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setMark
+# key : setMark
+# --
+setMark(${1:\$line_no}, ${2:\$left}, ${3:\$top}, ${4:\$size = LINE_MARK_SIZE})$0

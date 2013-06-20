@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getFnOnload
+# key : getFnOnload
+# --
+getFnOnload(${1:\$arrProducts})$0

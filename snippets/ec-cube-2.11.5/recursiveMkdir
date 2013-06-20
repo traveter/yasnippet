@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :recursiveMkdir
+# key : recursiveMkdir
+# --
+recursiveMkdir(${1:\$pathname}, ${2:\$mode = 0777})$0

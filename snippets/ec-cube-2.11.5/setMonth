@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setMonth
+# key : setMonth
+# --
+setMonth(${1:\$month})$0

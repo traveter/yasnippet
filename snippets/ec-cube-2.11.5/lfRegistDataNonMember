@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistDataNonMember
+# key : lfRegistDataNonMember
+# --
+lfRegistDataNonMember(${1:\$objFormParam})$0

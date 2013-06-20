@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :drawClabelBG
+# key : drawClabelBG
+# --
+drawClabelBG(${1:\$left}, ${2:\$top}, ${3:\$right}, ${4:\$bottom})$0

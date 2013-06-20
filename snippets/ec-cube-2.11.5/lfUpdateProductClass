@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdateProductClass
+# key : lfUpdateProductClass
+# --
+lfUpdateProductClass(${1:\$arrList})$0

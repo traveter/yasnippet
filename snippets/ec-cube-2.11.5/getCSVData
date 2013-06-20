@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCSVData
+# key : getCSVData
+# --
+getCSVData(${1:\$array}, ${2:\$arrayIndex})$0

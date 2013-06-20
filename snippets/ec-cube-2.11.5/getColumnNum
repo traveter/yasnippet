@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getColumnNum
+# key : getColumnNum
+# --
+getColumnNum(${1:\$arrPageLayout})$0

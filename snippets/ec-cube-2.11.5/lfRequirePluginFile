@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRequirePluginFile
+# key : lfRequirePluginFile
+# --
+lfRequirePluginFile(${1:\$plugin_code})$0

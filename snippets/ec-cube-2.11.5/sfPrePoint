@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfPrePoint
+# key : sfPrePoint
+# --
+sfPrePoint(${1:\$price}, ${2:\$point_rate}, ${3:\$rule = POINT_RULE}, ${4:\$product_id = ""})$0

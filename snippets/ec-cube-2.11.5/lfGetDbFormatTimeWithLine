@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetDbFormatTimeWithLine
+# key : lfGetDbFormatTimeWithLine
+# --
+lfGetDbFormatTimeWithLine(${1:\$line_no = ''})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCustomerAddress
+# key : getCustomerAddress
+# --
+getCustomerAddress(${1:\$customer_id})$0

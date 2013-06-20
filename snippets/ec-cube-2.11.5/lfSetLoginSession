@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetLoginSession
+# key : lfSetLoginSession
+# --
+lfSetLoginSession(${1:\$member_id}, ${2:\$login_id}, ${3:\$authority}, ${4:\$login_name}, ${5:\$last_login})$0

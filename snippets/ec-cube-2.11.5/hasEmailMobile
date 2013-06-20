@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :hasEmailMobile
+# key : hasEmailMobile
+# --
+hasEmailMobile(${1:&\$objCustomer})$0

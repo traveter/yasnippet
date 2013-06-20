@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetClassCat
+# key : lfGetClassCat
+# --
+lfGetClassCat(${1:\$class_id})$0

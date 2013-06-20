@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDelete
+# key : lfDelete
+# --
+lfDelete(${1:\$arrOrderId})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDelete
+# key : lfDelete
+# --
+lfDelete(${1:\$maker_id})$0

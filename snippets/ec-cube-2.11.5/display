@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :display
+# key : display
+# --
+display(${1:\$template}, ${2:\$no_error = false})$0

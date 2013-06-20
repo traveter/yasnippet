@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfPreGetRecommendProducts
+# key : lfPreGetRecommendProducts
+# --
+lfPreGetRecommendProducts(${1:\$product_id})$0

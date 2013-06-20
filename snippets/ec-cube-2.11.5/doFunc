@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doFunc
+# key : doFunc
+# --
+doFunc(${1:\$value}, ${2:\$arrFunc})$0

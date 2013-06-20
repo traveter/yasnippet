@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetErrorMessage
+# key : lfGetErrorMessage
+# --
+lfGetErrorMessage(${1:\$error})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getSwapArray
+# key : getSwapArray
+# --
+getSwapArray(${1:\$arrKey = array()})$0

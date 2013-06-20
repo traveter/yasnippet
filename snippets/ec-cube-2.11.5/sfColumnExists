@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfColumnExists
+# key : sfColumnExists
+# --
+sfColumnExists(${1:\$table_name}, ${2:\$col_name}, ${3:\$col_type = ""}, ${4:\$dsn = ""}, ${5:\$add = false})$0

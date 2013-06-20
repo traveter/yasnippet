@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getNews
+# key : getNews
+# --
+getNews(${1:\$news_id = ''})$0

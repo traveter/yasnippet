@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :tryCreateDir
+# key : tryCreateDir
+# --
+tryCreateDir(${1:\$objFileManager}, ${2:\$objFormParam})$0

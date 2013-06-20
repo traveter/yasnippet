@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMemberData
+# key : getMemberData
+# --
+getMemberData(${1:\$id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMemberData
+# key : getMemberData
+# --
+getMemberData(${1:\$startno})$0

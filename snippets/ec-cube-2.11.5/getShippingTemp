@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getShippingTemp
+# key : getShippingTemp
+# --
+getShippingTemp(${1:\$has_shipment_item})$0

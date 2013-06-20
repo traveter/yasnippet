@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setItemTermWithNullAndSpace
+# key : setItemTermWithNullAndSpace
+# --
+setItemTermWithNullAndSpace( ${1:\$arr}, ${2:\$ItemStr} )$0

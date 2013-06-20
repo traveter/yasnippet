@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :listdirs
+# key : listdirs
+# --
+listdirs(${1:\$dir})$0

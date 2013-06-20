@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setStatusCode
+# key : setStatusCode
+# --
+setStatusCode(${1:\$statusCode = null})$0

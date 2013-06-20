@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getBuyLimit
+# key : getBuyLimit
+# --
+getBuyLimit(${1:\$p})$0

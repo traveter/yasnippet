@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :httpCacheControl
+# key : httpCacheControl
+# --
+httpCacheControl(${1:\$mode = ''})$0

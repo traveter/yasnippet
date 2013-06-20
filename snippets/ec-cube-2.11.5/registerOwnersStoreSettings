@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerOwnersStoreSettings
+# key : registerOwnersStoreSettings
+# --
+registerOwnersStoreSettings(${1:\$arrSettingsData})$0

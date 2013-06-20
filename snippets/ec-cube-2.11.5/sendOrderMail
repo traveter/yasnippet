@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sendOrderMail
+# key : sendOrderMail
+# --
+sendOrderMail(${1:\$orderId})$0

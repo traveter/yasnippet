@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRestore
+# key : lfRestore
+# --
+lfRestore(${1:\$bkup_name}, ${2:\$bkup_dir}, ${3:\$bkup_ext}, ${4:\$mode})$0

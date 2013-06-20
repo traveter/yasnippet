@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetFileTreeSub
+# key : sfGetFileTreeSub
+# --
+sfGetFileTreeSub(${1:\$dir}, ${2:\$default_rank}, ${3:&\$cnt}, ${4:&\$arrTree}, ${5:\$tree_status})$0

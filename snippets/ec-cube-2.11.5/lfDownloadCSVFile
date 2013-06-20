@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDownloadCSVFile
+# key : lfDownloadCSVFile
+# --
+lfDownloadCSVFile(${1:\$filepath}, ${2:\$prefix = ""})$0

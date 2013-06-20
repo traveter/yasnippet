@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfLogRotation
+# key : gfLogRotation
+# --
+gfLogRotation(${1:\$max_log}, ${2:\$max_size}, ${3:\$path})$0

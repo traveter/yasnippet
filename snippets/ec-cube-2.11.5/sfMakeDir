@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMakeDir
+# key : sfMakeDir
+# --
+sfMakeDir(${1:\$path})$0

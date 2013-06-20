@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :reload
+# key : reload
+# --
+reload(${1:\$arrQueryString = array()}, ${2:\$removeQueryString = false})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :reload
+# key : reload
+# --
+reload(${1:\$queryString = array()}, ${2:\$removeQueryString = false})$0

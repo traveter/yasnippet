@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfPutPluginsXml
+# key : sfPutPluginsXml
+# --
+sfPutPluginsXml(${1:\$pluginsXml})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setCc
+# key : setCc
+# --
+setCc(${1:\$cc}, ${2:\$cc_name = ""})$0

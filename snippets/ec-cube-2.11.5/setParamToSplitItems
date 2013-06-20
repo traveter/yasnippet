@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setParamToSplitItems
+# key : setParamToSplitItems
+# --
+setParamToSplitItems(${1:&\$objFormParam}, ${2:&\$objCartSess})$0

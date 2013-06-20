@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerPage
+# key : registerPage
+# --
+registerPage(${1:\$arrParams}, ${2:&\$objLayout})$0

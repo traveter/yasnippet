@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSearchKey
+# key : sfSearchKey
+# --
+sfSearchKey(${1:\$array}, ${2:\$word}, ${3:\$default})$0

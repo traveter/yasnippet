@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfUpdateOrderNameCol
+# key : sfUpdateOrderNameCol
+# --
+sfUpdateOrderNameCol(${1:\$order_id}, ${2:\$temp_table = false})$0

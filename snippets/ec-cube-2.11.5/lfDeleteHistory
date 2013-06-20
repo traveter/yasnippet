@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDeleteHistory
+# key : lfDeleteHistory
+# --
+lfDeleteHistory(${1:\$send_id})$0

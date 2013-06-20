@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setPrevURL
+# key : setPrevURL
+# --
+setPrevURL(${1:\$url}, ${2:\$excludePaths = array()})$0

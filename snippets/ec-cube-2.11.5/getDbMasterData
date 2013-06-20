@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getDbMasterData
+# key : getDbMasterData
+# --
+getDbMasterData(${1:\$name}, ${2:\$columns = array()})$0

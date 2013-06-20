@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetMainCat
+# key : lfGetMainCat
+# --
+lfGetMainCat(${1:\$count_check = false})$0

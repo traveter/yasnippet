@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :updateProductCategories
+# key : updateProductCategories
+# --
+updateProductCategories(${1:\$arrCategory_id}, ${2:\$product_id})$0

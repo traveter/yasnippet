@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRemoveFromPluginsXml
+# key : lfRemoveFromPluginsXml
+# --
+lfRemoveFromPluginsXml(${1:\$path})$0

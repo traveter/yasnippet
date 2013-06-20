@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckPreviewError
+# key : lfCheckPreviewError
+# --
+lfCheckPreviewError(${1:&\$objFormParam})$0

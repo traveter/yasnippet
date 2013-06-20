@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetAddSuffix
+# key : lfGetAddSuffix
+# --
+lfGetAddSuffix(${1:\$to_key})$0

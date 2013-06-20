@@ -1,0 +1,18 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdateData
+# key : lfUpdateData
+# --
+lfUpdateData(${1:\$array})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdateData
+# key : lfUpdateData
+# --
+lfUpdateData(${1:\$post})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdateData
+# key : lfUpdateData
+# --
+lfUpdateData(${1:\$sqlval})$0

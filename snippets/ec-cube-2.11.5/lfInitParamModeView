@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParamModeView
+# key : lfInitParamModeView
+# --
+lfInitParamModeView(${1:&\$objFormParam})$0

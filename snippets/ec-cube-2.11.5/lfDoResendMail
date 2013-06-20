@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDoResendMail
+# key : lfDoResendMail
+# --
+lfDoResendMail(${1:\$customer_id})$0

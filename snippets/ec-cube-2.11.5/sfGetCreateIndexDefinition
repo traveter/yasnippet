@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCreateIndexDefinition
+# key : sfGetCreateIndexDefinition
+# --
+sfGetCreateIndexDefinition(${1:\$table}, ${2:\$name}, ${3:\$definition})$0

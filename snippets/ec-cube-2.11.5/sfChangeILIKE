@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfChangeILIKE
+# key : sfChangeILIKE
+# --
+sfChangeILIKE(${1:\$sql})$0

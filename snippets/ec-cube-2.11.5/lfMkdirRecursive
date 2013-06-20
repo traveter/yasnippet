@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfMkdirRecursive
+# key : lfMkdirRecursive
+# --
+lfMkdirRecursive(${1:\$path})$0

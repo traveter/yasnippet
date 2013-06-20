@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfPassLen
+# key : sfPassLen
+# --
+sfPassLen(${1:\$passlen})$0

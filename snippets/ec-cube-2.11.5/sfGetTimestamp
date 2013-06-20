@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetTimestamp
+# key : sfGetTimestamp
+# --
+sfGetTimestamp(${1:\$year}, ${2:\$month}, ${3:\$day}, ${4:\$last = false})$0

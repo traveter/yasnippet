@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getDefaultColumnName
+# key : getDefaultColumnName
+# --
+getDefaultColumnName(${1:\$columns = array()})$0

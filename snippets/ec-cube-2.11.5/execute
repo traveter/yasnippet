@@ -1,0 +1,18 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :execute
+# key : execute
+# --
+execute(${1:\$argv = ""})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :execute
+# key : execute
+# --
+execute(${1:\$target = "}.")$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :execute
+# key : execute
+# --
+execute(${1:&\$sth}, ${2:\$arrVal = array()})$0

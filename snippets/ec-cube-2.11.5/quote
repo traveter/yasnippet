@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :quote
+# key : quote
+# --
+quote(${1:\$val})$0

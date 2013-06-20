@@ -1,0 +1,30 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doRegister
+# key : doRegister
+# --
+doRegister(${1:\$css_dir}, ${2:\$css_name}, ${3:\$old_css_name}, ${4:\$css_path}, ${5:\$css_data})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doRegister
+# key : doRegister
+# --
+doRegister(${1:\$order_id}, ${2:&\$objPurchase}, ${3:&\$objFormParam}, ${4:&\$message}, ${5:&\$arrValuesBefore})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doRegister
+# key : doRegister
+# --
+doRegister(${1:\$template_code}, ${2:\$device_type_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doRegister
+# key : doRegister
+# --
+doRegister(${1:&\$objFormParam})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doRegister
+# key : doRegister
+# --
+doRegister(${1:&\$objFormParam}, ${2:&\$objLayout})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfArrayIntersectKeys
+# key : sfArrayIntersectKeys
+# --
+sfArrayIntersectKeys(${1:\$arrSrc}, ${2:\$arrKey})$0

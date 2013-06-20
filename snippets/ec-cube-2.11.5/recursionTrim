@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :recursionTrim
+# key : recursionTrim
+# --
+recursionTrim(${1:&\$value}, ${2:\$has_wide_space = true})$0

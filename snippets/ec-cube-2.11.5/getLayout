@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getLayout
+# key : getLayout
+# --
+getLayout(${1:\$device_type_id}, ${2:\$page_id}, ${3:&\$objLayout})$0

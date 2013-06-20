@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMoveCatRank
+# key : sfMoveCatRank
+# --
+sfMoveCatRank(${1:\$objQuery}, ${2:\$table}, ${3:\$id_name}, ${4:\$cat_name}, ${5:\$old_catid}, ${6:\$new_catid}, ${7:\$id})$0

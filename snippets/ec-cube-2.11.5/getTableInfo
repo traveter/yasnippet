@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTableInfo
+# key : getTableInfo
+# --
+getTableInfo(${1:\$table})$0

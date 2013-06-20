@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :makeThumb
+# key : makeThumb
+# --
+makeThumb(${1:\$src_file}, ${2:\$width}, ${3:\$height}, ${4:\$dst_file})$0

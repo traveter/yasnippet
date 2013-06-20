@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSplitCBValue
+# key : sfSplitCBValue
+# --
+sfSplitCBValue(${1:\$val}, ${2:\$keyname = ""})$0

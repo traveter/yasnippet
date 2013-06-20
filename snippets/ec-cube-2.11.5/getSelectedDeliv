@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getSelectedDeliv
+# key : getSelectedDeliv
+# --
+getSelectedDeliv(${1:&\$objPurchase}, ${2:&\$objCartSess}, ${3:\$deliv_id})$0

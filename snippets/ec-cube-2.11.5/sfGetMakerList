@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetMakerList
+# key : sfGetMakerList
+# --
+sfGetMakerList(${1:\$addwhere = ""}, ${2:\$products_check = false})$0

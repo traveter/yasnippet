@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetRandomString
+# key : sfGetRandomString
+# --
+sfGetRandomString(${1:\$length = 1})$0

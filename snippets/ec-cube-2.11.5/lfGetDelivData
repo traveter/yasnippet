@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetDelivData
+# key : lfGetDelivData
+# --
+lfGetDelivData(${1:&\$objFormParam})$0

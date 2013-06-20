@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :checkEXISTS
+# key : checkEXISTS
+# --
+checkEXISTS(${1:\$keyname = ""})$0

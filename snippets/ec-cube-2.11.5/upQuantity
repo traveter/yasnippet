@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :upQuantity
+# key : upQuantity
+# --
+upQuantity(${1:\$cart_no}, ${2:\$productTypeId})$0

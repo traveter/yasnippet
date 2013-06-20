@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getRankByNewsId
+# key : getRankByNewsId
+# --
+getRankByNewsId(${1:\$news_id})$0

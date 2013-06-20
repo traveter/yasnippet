@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sendHttpStatus
+# key : sendHttpStatus
+# --
+sendHttpStatus(${1:\$statusCode})$0

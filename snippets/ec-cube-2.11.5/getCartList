@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCartList
+# key : getCartList
+# --
+getCartList(${1:\$productTypeId})$0

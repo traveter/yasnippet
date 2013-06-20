@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :listTableIndexes
+# key : listTableIndexes
+# --
+listTableIndexes(${1:\$table})$0

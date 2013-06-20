@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setItemTermWithNull
+# key : setItemTermWithNull
+# --
+setItemTermWithNull( ${1:\$arr}, ${2:\$ItemStr} )$0

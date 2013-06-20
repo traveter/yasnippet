@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfIsDbRecordMulti
+# key : lfIsDbRecordMulti
+# --
+lfIsDbRecordMulti(${1:\$table}, ${2:\$tblkey}, ${3:\$keyname}, ${4:\$item}, ${5:\$delimiter = '},')$0

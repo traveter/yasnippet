@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCategoryList
+# key : sfGetCategoryList
+# --
+sfGetCategoryList(${1:\$addwhere = ""}, ${2:\$products_check = false}, ${3:\$head = CATEGORY_HEAD})$0

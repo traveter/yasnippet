@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetOrderYesterday
+# key : lfGetOrderYesterday
+# --
+lfGetOrderYesterday(${1:\$method})$0

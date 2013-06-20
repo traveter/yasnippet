@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfDownloadCsvFromSql
+# key : sfDownloadCsvFromSql
+# --
+sfDownloadCsvFromSql(${1:\$sql}, ${2:\$arrVal = array()}, ${3:\$file_head = 'csv'}, ${4:\$arrHeader = array()}, ${5:\$is_download = false})$0

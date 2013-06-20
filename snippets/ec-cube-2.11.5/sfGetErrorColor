@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetErrorColor
+# key : sfGetErrorColor
+# --
+sfGetErrorColor(${1:\$val})$0

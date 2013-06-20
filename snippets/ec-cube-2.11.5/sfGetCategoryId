@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCategoryId
+# key : sfGetCategoryId
+# --
+sfGetCategoryId(${1:\$product_id}, ${2:\$category_id = 0}, ${3:\$closed = false})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfGetCallerInfo
+# key : gfGetCallerInfo
+# --
+gfGetCallerInfo(${1:\$forLogInfo=true})$0

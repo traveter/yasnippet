@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetProduct
+# key : lfGetProduct
+# --
+lfGetProduct(${1:\$category_id})$0

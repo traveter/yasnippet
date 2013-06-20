@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRunkDown
+# key : lfRunkDown
+# --
+lfRunkDown(${1:\$id})$0

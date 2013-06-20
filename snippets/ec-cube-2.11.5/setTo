@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setTo
+# key : setTo
+# --
+setTo(${1:\$to}, ${2:\$to_name = ""})$0

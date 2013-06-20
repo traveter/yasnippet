@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTemplatePath
+# key : getTemplatePath
+# --
+getTemplatePath(${1:\$device_type_id = DEVICE_TYPE_PC}, ${2:\$isUser = false})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTemplatePath
+# key : getTemplatePath
+# --
+getTemplatePath(${1:\$device_type_id}, ${2:\$division})$0

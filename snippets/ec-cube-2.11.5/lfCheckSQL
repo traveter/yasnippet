@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckSQL
+# key : lfCheckSQL
+# --
+lfCheckSQL(${1:\$sql})$0

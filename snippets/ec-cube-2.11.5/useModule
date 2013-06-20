@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :useModule
+# key : useModule
+# --
+useModule(${1:\$payment_id})$0

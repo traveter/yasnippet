@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getLastQuery
+# key : getLastQuery
+# --
+getLastQuery(${1:\$disp = true})$0

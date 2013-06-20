@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setXLabel
+# key : setXLabel
+# --
+setXLabel(${1:\$arrXLabel})$0

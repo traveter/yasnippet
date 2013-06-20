@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParamModeCreate
+# key : lfInitParamModeCreate
+# --
+lfInitParamModeCreate(${1:&\$objFormParam})$0

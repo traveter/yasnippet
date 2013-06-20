@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getDelivDate
+# key : getDelivDate
+# --
+getDelivDate(${1:&\$objCartSess}, ${2:\$productTypeId})$0

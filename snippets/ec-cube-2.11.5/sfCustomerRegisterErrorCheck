@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCustomerRegisterErrorCheck
+# key : sfCustomerRegisterErrorCheck
+# --
+sfCustomerRegisterErrorCheck(${1:&\$objErr}, ${2:\$isAdmin = false})$0

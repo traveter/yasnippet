@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getProductsClass
+# key : getProductsClass
+# --
+getProductsClass(${1:\$productClassId})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getProductsClass
+# key : getProductsClass
+# --
+getProductsClass(${1:\$product_id})$0

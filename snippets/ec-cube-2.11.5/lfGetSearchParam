@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetSearchParam
+# key : lfGetSearchParam
+# --
+lfGetSearchParam(${1:\$arrPost})$0

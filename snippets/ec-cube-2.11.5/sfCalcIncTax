@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCalcIncTax
+# key : sfCalcIncTax
+# --
+sfCalcIncTax(${1:\$price}, ${2:\$tax = null}, ${3:\$tax_rule = null})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCalcIncTax
+# key : sfCalcIncTax
+# --
+sfCalcIncTax(${1:\$price}, ${2:\$tax}, ${3:\$tax_rule})$0

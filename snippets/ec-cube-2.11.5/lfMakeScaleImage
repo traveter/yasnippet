@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfMakeScaleImage
+# key : lfMakeScaleImage
+# --
+lfMakeScaleImage(${1:&\$objUpFile}, ${2:\$from_key}, ${3:\$to_key}, ${4:\$forced = false})$0

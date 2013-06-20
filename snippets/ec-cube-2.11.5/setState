@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setState
+# key : setState
+# --
+setState(${1:\$state = 'pc'})$0

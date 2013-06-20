@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :cleanupSession
+# key : cleanupSession
+# --
+cleanupSession(${1:\$orderId}, ${2:&\$objCartSession}, ${3:&\$objCustomer}, ${4:\$cartKey})$0

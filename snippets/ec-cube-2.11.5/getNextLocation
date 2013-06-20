@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getNextLocation
+# key : getNextLocation
+# --
+getNextLocation(${1:\$product_type_id}, ${2:\$uniqid}, ${3:&\$objCustomer}, ${4:&\$objPurchase}, ${5:&\$objSiteSess})$0

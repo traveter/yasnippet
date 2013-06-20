@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sendRedirect
+# key : sendRedirect
+# --
+sendRedirect(${1:\$location}, ${2:\$arrQueryString = array()}, ${3:\$inheritQueryString = false}, ${4:\$useSsl = null})$0

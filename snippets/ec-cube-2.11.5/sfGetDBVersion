@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetDBVersion
+# key : sfGetDBVersion
+# --
+sfGetDBVersion(${1:\$dsn = ""})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :error
+# key : error
+# --
+error(${1:\$code}, ${2:\$val = null})$0

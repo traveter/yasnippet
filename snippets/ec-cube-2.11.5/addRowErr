@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :addRowErr
+# key : addRowErr
+# --
+addRowErr(${1:\$line_count}, ${2:\$message})$0

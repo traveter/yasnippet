@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitFile
+# key : lfInitFile
+# --
+lfInitFile(${1:\$objUpFile})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitFile
+# key : lfInitFile
+# --
+lfInitFile(${1:&\$objUpFile})$0

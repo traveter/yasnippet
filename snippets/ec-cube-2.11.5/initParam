@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :initParam
+# key : initParam
+# --
+initParam(${1:&\$objFormParam})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :initParam
+# key : initParam
+# --
+initParam(${1:&\$objFormParam}, ${2:&\$arrParams})$0

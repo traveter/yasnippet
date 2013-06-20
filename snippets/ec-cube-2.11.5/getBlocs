@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getBlocs
+# key : getBlocs
+# --
+getBlocs(${1:\$device_type_id = DEVICE_TYPE_PC}, ${2:\$where = ''}, ${3:\$arrParams = array()}, ${4:\$has_realpath = true})$0

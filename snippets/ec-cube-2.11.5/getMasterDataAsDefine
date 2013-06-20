@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMasterDataAsDefine
+# key : getMasterDataAsDefine
+# --
+getMasterDataAsDefine(${1:\$masterData}, ${2:\$comments = array()})$0

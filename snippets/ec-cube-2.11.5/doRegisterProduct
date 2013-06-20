@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doRegisterProduct
+# key : doRegisterProduct
+# --
+doRegisterProduct(${1:&\$objFormParam})$0

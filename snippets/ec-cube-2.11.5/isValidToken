@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isValidToken
+# key : isValidToken
+# --
+isValidToken(${1:\$is_unset = false})$0

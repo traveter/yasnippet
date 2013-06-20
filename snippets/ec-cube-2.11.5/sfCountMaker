@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCountMaker
+# key : sfCountMaker
+# --
+sfCountMaker(${1:\$objQuery})$0

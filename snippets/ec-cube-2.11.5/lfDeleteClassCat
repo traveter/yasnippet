@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDeleteClassCat
+# key : lfDeleteClassCat
+# --
+lfDeleteClassCat(${1:\$class_id}, ${2:\$classcategory_id})$0

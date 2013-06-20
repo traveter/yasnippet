@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setDispTree
+# key : setDispTree
+# --
+setDispTree(${1:\$objFileManager}, ${2:\$objFormParam})$0

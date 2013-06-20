@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :tryView
+# key : tryView
+# --
+tryView(${1:&\$objFormParam})$0

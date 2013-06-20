@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :makeTempDownFile
+# key : makeTempDownFile
+# --
+makeTempDownFile(${1:\$keyname='down_file'})$0

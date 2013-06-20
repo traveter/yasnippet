@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSaveDateSession
+# key : lfSaveDateSession
+# --
+lfSaveDateSession(${1:\$session}, ${2:\$arrForm})$0

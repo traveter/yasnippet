@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfTrim
+# key : sfTrim
+# --
+sfTrim(${1:\$str})$0

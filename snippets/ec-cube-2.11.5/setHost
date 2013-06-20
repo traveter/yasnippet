@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setHost
+# key : setHost
+# --
+setHost(${1:\$host})$0

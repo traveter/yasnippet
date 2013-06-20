@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :deleteFile
+# key : deleteFile
+# --
+deleteFile(${1:\$keyname})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetParamDefaultValue
+# key : lfSetParamDefaultValue
+# --
+lfSetParamDefaultValue(${1:&\$arrCSVFrame})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetDelivFee
+# key : sfGetDelivFee
+# --
+sfGetDelivFee(${1:\$pref_id}, ${2:\$deliv_id = 0})$0

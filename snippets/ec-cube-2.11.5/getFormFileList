@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getFormFileList
+# key : getFormFileList
+# --
+getFormFileList(${1:\$temp_url}, ${2:\$save_url}, ${3:\$real_size = false})$0

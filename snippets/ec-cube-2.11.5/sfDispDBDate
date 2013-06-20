@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfDispDBDate
+# key : sfDispDBDate
+# --
+sfDispDBDate(${1:\$dbdate}, ${2:\$time = true})$0

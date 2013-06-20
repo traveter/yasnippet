@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getUserDir
+# key : getUserDir
+# --
+getUserDir(${1:\$device_type_id = DEVICE_TYPE_PC}, ${2:\$hasPackage = false})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfDownloadFile
+# key : sfDownloadFile
+# --
+sfDownloadFile(${1:\$file})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckCategoryId
+# key : lfCheckCategoryId
+# --
+lfCheckCategoryId(${1:\$category_id})$0

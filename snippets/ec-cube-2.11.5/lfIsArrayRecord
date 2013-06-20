@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfIsArrayRecord
+# key : lfIsArrayRecord
+# --
+lfIsArrayRecord(${1:\$arr}, ${2:\$keyname}, ${3:\$item})$0

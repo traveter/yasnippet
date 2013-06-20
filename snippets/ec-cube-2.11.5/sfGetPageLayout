@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetPageLayout
+# key : sfGetPageLayout
+# --
+sfGetPageLayout(${1:&\$objPage}, ${2:\$preview = false}, ${3:\$url = ""}, ${4:\$device_type_id = DEVICE_TYPE_PC})$0

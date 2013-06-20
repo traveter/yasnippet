@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :hasProductType
+# key : hasProductType
+# --
+hasProductType(${1:\$product_type_id})$0

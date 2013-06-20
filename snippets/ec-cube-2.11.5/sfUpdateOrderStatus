@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfUpdateOrderStatus
+# key : sfUpdateOrderStatus
+# --
+sfUpdateOrderStatus(${1:\$orderId}, ${2:\$newStatus = null}, ${3:\$newAddPoint = null}, ${4:\$newUsePoint = null}, ${5:&\$sqlval})$0

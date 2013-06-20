@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfDataExists
+# key : sfDataExists
+# --
+sfDataExists(${1:\$table_name}, ${2:\$where}, ${3:\$arrval}, ${4:\$dsn = ""}, ${5:\$sql = ""}, ${6:\$add = false})$0

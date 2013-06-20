@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetCartPrevUrl
+# key : lfGetCartPrevUrl
+# --
+lfGetCartPrevUrl(${1:&\$session},${2:\$referer})$0

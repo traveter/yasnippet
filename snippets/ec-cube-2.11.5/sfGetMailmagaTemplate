@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetMailmagaTemplate
+# key : sfGetMailmagaTemplate
+# --
+sfGetMailmagaTemplate(${1:\$template_id = null})$0

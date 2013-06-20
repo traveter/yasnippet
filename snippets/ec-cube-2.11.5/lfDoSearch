@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDoSearch
+# key : lfDoSearch
+# --
+lfDoSearch(${1:\$arrParam})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDoSearch
+# key : lfDoSearch
+# --
+lfDoSearch(${1:\$search_pageno = 1})$0

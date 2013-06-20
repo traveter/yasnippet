@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setMax
+# key : setMax
+# --
+setMax(${1:\$arrData})$0

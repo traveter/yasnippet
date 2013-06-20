@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :delProduct
+# key : delProduct
+# --
+delProduct(${1:\$cart_no}, ${2:\$productTypeId})$0

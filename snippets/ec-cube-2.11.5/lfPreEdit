@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfPreEdit
+# key : lfPreEdit
+# --
+lfPreEdit(${1:&\$arrForm}, ${2:\$maker_id})$0

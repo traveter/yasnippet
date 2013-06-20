@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSendRegistMail
+# key : sfSendRegistMail
+# --
+sfSendRegistMail(${1:\$secret_key}, ${2:\$customer_id = ''}, ${3:\$is_mobile = false})$0

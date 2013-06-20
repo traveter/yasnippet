@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSessWrite
+# key : sfSessWrite
+# --
+sfSessWrite(${1:\$id}, ${2:\$sess_data})$0

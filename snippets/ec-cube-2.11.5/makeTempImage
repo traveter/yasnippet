@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :makeTempImage
+# key : makeTempImage
+# --
+makeTempImage(${1:\$keyname}, ${2:\$max_width}, ${3:\$max_height})$0

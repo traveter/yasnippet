@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setSuccess
+# key : setSuccess
+# --
+setSuccess(${1:\$data = array()}, ${2:\$msg = ''})$0

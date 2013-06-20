@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfGetAge
+# key : gfGetAge
+# --
+gfGetAge(${1:\$dbdate})$0

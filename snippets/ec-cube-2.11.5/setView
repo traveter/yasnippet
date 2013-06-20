@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setView
+# key : setView
+# --
+setView(${1:\$view})$0

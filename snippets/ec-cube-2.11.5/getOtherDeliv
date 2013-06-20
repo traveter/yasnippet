@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getOtherDeliv
+# key : getOtherDeliv
+# --
+getOtherDeliv(${1:\$customer_id}, ${2:\$startno = ''})$0

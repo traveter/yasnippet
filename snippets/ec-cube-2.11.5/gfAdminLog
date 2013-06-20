@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfAdminLog
+# key : gfAdminLog
+# --
+gfAdminLog(${1:\$mess}, ${2:\$log_level='Info'})$0

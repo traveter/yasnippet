@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDoLogin
+# key : lfDoLogin
+# --
+lfDoLogin(${1:\$login_id})$0

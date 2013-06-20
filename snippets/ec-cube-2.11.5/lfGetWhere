@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetWhere
+# key : lfGetWhere
+# --
+lfGetWhere(${1:\$arrForm})$0

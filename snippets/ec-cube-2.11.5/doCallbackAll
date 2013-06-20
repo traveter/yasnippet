@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doCallbackAll
+# key : doCallbackAll
+# --
+doCallbackAll(${1:\$cbFunc}, ${2:\$sql}, ${3:\$arrval = array()}, ${4:\$fetchmode = MDB2_FETCHMODE_ASSOC})$0

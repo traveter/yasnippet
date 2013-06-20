@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitSearchParam
+# key : lfInitSearchParam
+# --
+lfInitSearchParam(${1:&\$objFormParam})$0

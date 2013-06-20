@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerUpdateLog
+# key : registerUpdateLog
+# --
+registerUpdateLog(${1:\$arrLog}, ${2:\$objRet})$0

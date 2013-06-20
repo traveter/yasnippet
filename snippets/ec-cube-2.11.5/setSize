@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setSize
+# key : setSize
+# --
+setSize(${1:\$cw}, ${2:\$ch}, ${3:\$cz = 0})$0

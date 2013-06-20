@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setExtSessionId
+# key : setExtSessionId
+# --
+setExtSessionId(${1:\$param_key}, ${2:\$param_value}, ${3:\$url})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTableTag
+# key : getTableTag
+# --
+getTableTag(${1:\$array})$0

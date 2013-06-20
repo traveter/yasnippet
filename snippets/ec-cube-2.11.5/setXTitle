@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setXTitle
+# key : setXTitle
+# --
+setXTitle(${1:\$title})$0

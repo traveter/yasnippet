@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTotalQuantity
+# key : getTotalQuantity
+# --
+getTotalQuantity(${1:\$productTypeId})$0

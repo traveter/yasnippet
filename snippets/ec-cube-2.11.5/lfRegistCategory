@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistCategory
+# key : lfRegistCategory
+# --
+lfRegistCategory(${1:\$objQuery}, ${2:\$line}, ${3:&\$objFormParam})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getOrderTemp
+# key : getOrderTemp
+# --
+getOrderTemp(${1:\$uniqId})$0

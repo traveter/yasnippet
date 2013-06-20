@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDelData
+# key : lfDelData
+# --
+lfDelData(${1:\$sql_id})$0

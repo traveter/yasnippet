@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetBasisData
+# key : sfGetBasisData
+# --
+sfGetBasisData(${1:\$force = false}, ${2:\$col = ""})$0

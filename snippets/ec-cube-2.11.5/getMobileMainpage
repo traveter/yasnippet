@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMobileMainpage
+# key : getMobileMainpage
+# --
+getMobileMainpage(${1:\$is_single_deliv = true}, ${2:\$mode})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :updateMdlTable
+# key : updateMdlTable
+# --
+updateMdlTable(${1:\$objRet})$0

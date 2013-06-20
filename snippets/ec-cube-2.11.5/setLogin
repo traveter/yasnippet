@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setLogin
+# key : setLogin
+# --
+setLogin(${1:\$email})$0

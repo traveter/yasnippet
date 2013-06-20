@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetMailView
+# key : lfGetMailView
+# --
+lfGetMailView(${1:\$send_id}, ${2:\$customer_id})$0

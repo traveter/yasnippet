@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getClasscategoryIdsByProductClassId
+# key : getClasscategoryIdsByProductClassId
+# --
+getClasscategoryIdsByProductClassId(${1:\$productId}, ${2:\$classcategory_id1}, ${3:\$classcategory_id2})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDeleteTempFile
+# key : lfDeleteTempFile
+# --
+lfDeleteTempFile(${1:&\$objUpFile}, ${2:\$image_key})$0

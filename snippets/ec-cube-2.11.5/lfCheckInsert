@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckInsert
+# key : lfCheckInsert
+# --
+lfCheckInsert(${1:\$arrForm})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckInsert
+# key : lfCheckInsert
+# --
+lfCheckInsert(${1:\$classcategory_id})$0

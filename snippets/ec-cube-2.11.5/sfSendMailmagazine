@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSendMailmagazine
+# key : sfSendMailmagazine
+# --
+sfSendMailmagazine(${1:\$send_id})$0

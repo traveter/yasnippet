@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :splitNewsDate
+# key : splitNewsDate
+# --
+splitNewsDate(${1:\$news_date})$0

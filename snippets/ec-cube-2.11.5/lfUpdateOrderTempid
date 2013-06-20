@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdateOrderTempid
+# key : lfUpdateOrderTempid
+# --
+lfUpdateOrderTempid(${1:\$pre_uniqid},${2:\$uniqid})$0

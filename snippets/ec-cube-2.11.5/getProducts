@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getProducts
+# key : getProducts
+# --
+getProducts(${1:\$whereAndBind},${2:&\$objProduct}, ${3:\$page_max}, ${4:\$startno})$0

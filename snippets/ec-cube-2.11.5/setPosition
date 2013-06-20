@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setPosition
+# key : setPosition
+# --
+setPosition(${1:\$cx}, ${2:\$cy})$0

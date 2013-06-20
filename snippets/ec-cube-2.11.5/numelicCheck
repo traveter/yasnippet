@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :numelicCheck
+# key : numelicCheck
+# --
+numelicCheck(${1:\$string})$0

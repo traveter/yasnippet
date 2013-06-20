@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isAbsoluteRealPath
+# key : isAbsoluteRealPath
+# --
+isAbsoluteRealPath(${1:\$realpath})$0

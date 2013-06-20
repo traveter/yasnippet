@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getRootPath
+# key : getRootPath
+# --
+getRootPath(${1:\$path})$0

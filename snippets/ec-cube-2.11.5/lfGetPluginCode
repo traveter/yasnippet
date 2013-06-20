@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetPluginCode
+# key : lfGetPluginCode
+# --
+lfGetPluginCode(${1:\$upload_file_name})$0

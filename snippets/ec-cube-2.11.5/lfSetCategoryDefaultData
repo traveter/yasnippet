@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetCategoryDefaultData
+# key : lfSetCategoryDefaultData
+# --
+lfSetCategoryDefaultData(${1:&\$sqlval})$0

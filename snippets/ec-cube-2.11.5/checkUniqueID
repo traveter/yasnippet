@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :checkUniqueID
+# key : checkUniqueID
+# --
+checkUniqueID(${1:&\$arrParams})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :GetSession
+# key : GetSession
+# --
+GetSession(${1:\$key})$0

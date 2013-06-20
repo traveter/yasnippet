@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :makeTempFile
+# key : makeTempFile
+# --
+makeTempFile(${1:\$keyname}, ${2:\$rename = IMAGE_RENAME})$0

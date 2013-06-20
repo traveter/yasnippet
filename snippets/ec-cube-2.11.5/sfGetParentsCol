@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetParentsCol
+# key : sfGetParentsCol
+# --
+sfGetParentsCol(${1:\$objQuery}, ${2:\$table}, ${3:\$id_name}, ${4:\$col_name}, ${5:\$arrId} )$0

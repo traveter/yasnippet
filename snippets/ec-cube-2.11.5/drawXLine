@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :drawXLine
+# key : drawXLine
+# --
+drawXLine(${1:\$bar = false})$0

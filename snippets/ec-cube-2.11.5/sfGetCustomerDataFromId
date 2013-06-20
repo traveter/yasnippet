@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCustomerDataFromId
+# key : sfGetCustomerDataFromId
+# --
+sfGetCustomerDataFromId(${1:\$customer_id}, ${2:\$add_where = ''}, ${3:\$arrAddVal = array()})$0

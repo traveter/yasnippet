@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTempFilePath
+# key : getTempFilePath
+# --
+getTempFilePath(${1:\$keyname})$0

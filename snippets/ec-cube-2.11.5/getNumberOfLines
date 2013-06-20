@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getNumberOfLines
+# key : getNumberOfLines
+# --
+getNumberOfLines(${1:\$where}, ${2:\$arrValues})$0

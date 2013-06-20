@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetCategories
+# key : lfGetCategories
+# --
+lfGetCategories(${1:\$category_id}, ${2:\$count_check = false}, ${3:&\$objPage})$0

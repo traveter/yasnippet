@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :checkError
+# key : checkError
+# --
+checkError(${1:\$br = true})$0

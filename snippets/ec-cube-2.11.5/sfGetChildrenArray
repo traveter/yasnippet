@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetChildrenArray
+# key : sfGetChildrenArray
+# --
+sfGetChildrenArray(${1:\$table}, ${2:\$pid_name}, ${3:\$id_name}, ${4:\$id})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetImageColor
+# key : lfGetImageColor
+# --
+lfGetImageColor(${1:\$image}, ${2:\$array})$0

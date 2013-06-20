@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDown
+# key : doDown
+# --
+doDown(${1:&\$objFormParam})$0

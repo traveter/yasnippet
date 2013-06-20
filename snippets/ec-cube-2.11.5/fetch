@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :fetch
+# key : fetch
+# --
+fetch(${1:\$template}, ${2:\$no_error=false})$0

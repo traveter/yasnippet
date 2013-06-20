@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registMasterData
+# key : registMasterData
+# --
+registMasterData(${1:\$arrParams}, ${2:&\$masterData}, ${3:\$master_data_name})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registMasterData
+# key : registMasterData
+# --
+registMasterData(${1:\$name}, ${2:\$columns}, ${3:\$masterData}, ${4:\$autoCommit = true})$0

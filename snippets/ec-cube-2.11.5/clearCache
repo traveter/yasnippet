@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :clearCache
+# key : clearCache
+# --
+clearCache(${1:\$name})$0

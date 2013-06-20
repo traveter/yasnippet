@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getSql
+# key : getSql
+# --
+getSql( ${1:\$mode = ""} )$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getSql
+# key : getSql
+# --
+getSql(${1:\$col}, ${2:\$table}, ${3:\$where = ''}, ${4:&\$arrWhereVal = null})$0

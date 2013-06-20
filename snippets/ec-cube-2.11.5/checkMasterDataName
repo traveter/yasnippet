@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :checkMasterDataName
+# key : checkMasterDataName
+# --
+checkMasterDataName(${1:&\$arrParams}, ${2:&\$arrMasterDataName})$0

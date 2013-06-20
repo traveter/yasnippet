@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :update
+# key : update
+# --
+update(${1:\$table}, ${2:\$sqlval}, ${3:\$where = ""}, ${4:\$arrWhereVal = array()}, ${5:\$arrRawSql = array()}, ${6:\$arrRawSqlVal = array()})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :update
+# key : update
+# --
+update(${1:&\$arrKeys}, ${2:&\$arrForm})$0

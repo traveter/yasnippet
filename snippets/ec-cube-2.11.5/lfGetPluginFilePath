@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetPluginFilePath
+# key : lfGetPluginFilePath
+# --
+lfGetPluginFilePath(${1:\$plugin_code})$0

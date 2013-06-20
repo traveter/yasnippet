@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDoCsvOutput
+# key : lfDoCsvOutput
+# --
+lfDoCsvOutput(${1:\$sql_id})$0

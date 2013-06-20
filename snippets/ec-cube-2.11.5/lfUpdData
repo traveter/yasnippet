@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdData
+# key : lfUpdData
+# --
+lfUpdData(${1:\$sql_id}, ${2:\$arrSqlVal})$0

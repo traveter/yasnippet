@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setOrderToFormParam
+# key : setOrderToFormParam
+# --
+setOrderToFormParam(${1:&\$objFormParam}, ${2:\$order_id})$0

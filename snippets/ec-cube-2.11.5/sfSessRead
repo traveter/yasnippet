@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSessRead
+# key : sfSessRead
+# --
+sfSessRead(${1:\$id})$0

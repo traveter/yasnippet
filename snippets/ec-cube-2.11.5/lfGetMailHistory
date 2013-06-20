@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetMailHistory
+# key : lfGetMailHistory
+# --
+lfGetMailHistory(${1:\$order_id})$0

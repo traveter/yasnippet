@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMax
+# key : getMax
+# --
+getMax(${1:\$productTypeId})$0

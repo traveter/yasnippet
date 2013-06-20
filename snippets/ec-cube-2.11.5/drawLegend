@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :drawLegend
+# key : drawLegend
+# --
+drawLegend(${1:\$legend_max = ""}, ${2:\$clabelbg = true})$0

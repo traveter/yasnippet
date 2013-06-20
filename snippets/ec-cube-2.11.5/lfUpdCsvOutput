@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdCsvOutput
+# key : lfUpdCsvOutput
+# --
+lfUpdCsvOutput(${1:\$csv_id}, ${2:\$arrData = array()})$0

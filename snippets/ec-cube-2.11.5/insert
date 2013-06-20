@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :insert
+# key : insert
+# --
+insert(${1:\$table}, ${2:\$sqlval})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetProductAllNum
+# key : lfGetProductAllNum
+# --
+lfGetProductAllNum(${1:\$searchCondition})$0

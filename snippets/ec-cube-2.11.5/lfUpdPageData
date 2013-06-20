@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdPageData
+# key : lfUpdPageData
+# --
+lfUpdPageData(${1:\$arrUpdData = array()})$0

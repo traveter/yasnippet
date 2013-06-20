@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :findProductCount
+# key : findProductCount
+# --
+findProductCount(${1:&\$objQuery}, ${2:\$arrVal = array()})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetCSVColum
+# key : lfGetCSVColum
+# --
+lfGetCSVColum(${1:\$page})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetStartEndDate
+# key : lfSetStartEndDate
+# --
+lfSetStartEndDate(${1:&\$objFormParam})$0

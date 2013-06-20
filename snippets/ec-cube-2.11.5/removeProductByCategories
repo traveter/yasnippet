@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :removeProductByCategories
+# key : removeProductByCategories
+# --
+removeProductByCategories(${1:\$category_id}, ${2:\$product_id})$0

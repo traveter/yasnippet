@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :delAllProducts
+# key : delAllProducts
+# --
+delAllProducts(${1:\$productTypeId})$0

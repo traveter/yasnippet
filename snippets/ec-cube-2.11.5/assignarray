@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :assignarray
+# key : assignarray
+# --
+assignarray(${1:\$array})$0

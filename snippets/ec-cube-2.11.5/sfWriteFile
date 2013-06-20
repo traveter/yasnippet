@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfWriteFile
+# key : sfWriteFile
+# --
+sfWriteFile(${1:\$filename}, ${2:\$value})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfWriteFile
+# key : sfWriteFile
+# --
+sfWriteFile(${1:\$str}, ${2:\$path}, ${3:\$type}, ${4:\$permission = ""})$0

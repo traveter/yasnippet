@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getDay
+# key : getDay
+# --
+getDay(${1:\$default = false})$0

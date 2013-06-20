@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCopyProductImageFiles
+# key : lfCopyProductImageFiles
+# --
+lfCopyProductImageFiles(${1:&\$objUpFile})$0

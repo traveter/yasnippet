@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :deleteMasterData
+# key : deleteMasterData
+# --
+deleteMasterData(${1:\$name}, ${2:\$autoCommit = true})$0

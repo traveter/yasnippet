@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getSingletonInstance
+# key : getSingletonInstance
+# --
+getSingletonInstance(${1:\$dsn = ""}, ${2:\$force_run = false}, ${3:\$new = false})$0

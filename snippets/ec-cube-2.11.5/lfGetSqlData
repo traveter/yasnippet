@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetSqlData
+# key : lfGetSqlData
+# --
+lfGetSqlData(${1:&\$objFormParam})$0

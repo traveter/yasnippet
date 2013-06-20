@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetKiyaku
+# key : lfGetKiyaku
+# --
+lfGetKiyaku(${1:\$index}, ${2:&\$objPage})$0

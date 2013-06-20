@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfChangeArrayToString
+# key : sfChangeArrayToString
+# --
+sfChangeArrayToString(${1:\$sql})$0

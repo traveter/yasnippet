@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setHiddenFileList
+# key : setHiddenFileList
+# --
+setHiddenFileList(${1:\$arrPOST})$0

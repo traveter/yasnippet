@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCSSDir
+# key : getCSSDir
+# --
+getCSSDir(${1:\$device_type_id})$0

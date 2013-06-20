@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMailHistory
+# key : getMailHistory
+# --
+getMailHistory(${1:\$order_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMailHistory
+# key : getMailHistory
+# --
+getMailHistory(${1:\$send_id})$0

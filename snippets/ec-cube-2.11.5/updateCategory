@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :updateCategory
+# key : updateCategory
+# --
+updateCategory(${1:\$category_id}, ${2:\$arrCategory})$0

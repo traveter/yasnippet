@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetHolidayDataByHolidayID
+# key : lfGetHolidayDataByHolidayID
+# --
+lfGetHolidayDataByHolidayID(${1:\$holiday_id})$0

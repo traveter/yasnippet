@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setMultipleItemTo
+# key : setMultipleItemTo
+# --
+setMultipleItemTo(${1:&\$objFormParam})$0

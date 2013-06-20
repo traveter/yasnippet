@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCountCategory
+# key : sfCountCategory
+# --
+sfCountCategory(${1:\$objQuery = NULL}, ${2:\$is_force_all_count = false})$0

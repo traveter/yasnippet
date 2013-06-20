@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCSSList
+# key : getCSSList
+# --
+getCSSList(${1:\$css_dir})$0

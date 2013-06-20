@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getZeroYear
+# key : getZeroYear
+# --
+getZeroYear(${1:\$year = ''})$0

@@ -1,0 +1,12 @@
+# name: comment-f
+# key: comment-f
+# --
+/**
+ * ${1:function simple description}
+ *
+ * ${2:function detail description}
+ *
+ * @access ${3:$$(yas-choose-value '("private" "public"))}
+ * @param ${4:variable_type} \$${5:variable_name} ${6:variable description}
+ * @return  ${7:return_type} \$${8:return_name} ${9:return description}
+ */

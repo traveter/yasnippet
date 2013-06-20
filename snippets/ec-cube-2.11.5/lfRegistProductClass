@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistProductClass
+# key : lfRegistProductClass
+# --
+lfRegistProductClass(${1:\$objQuery}, ${2:\$arrList}, ${3:\$product_id}, ${4:\$product_class_id})$0

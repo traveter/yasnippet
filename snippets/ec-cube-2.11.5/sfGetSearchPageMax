@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetSearchPageMax
+# key : sfGetSearchPageMax
+# --
+sfGetSearchPageMax(${1:\$search_page_max})$0

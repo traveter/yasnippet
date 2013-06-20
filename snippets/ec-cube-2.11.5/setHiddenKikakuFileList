@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setHiddenKikakuFileList
+# key : setHiddenKikakuFileList
+# --
+setHiddenKikakuFileList(${1:\$arrPOST})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setDownloadableFlgTo
+# key : setDownloadableFlgTo
+# --
+setDownloadableFlgTo(${1:&\$arrOrderDetail})$0

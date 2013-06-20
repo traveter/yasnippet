@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMultiply
+# key : sfMultiply
+# --
+sfMultiply(${1:\$num1}, ${2:\$num2})$0

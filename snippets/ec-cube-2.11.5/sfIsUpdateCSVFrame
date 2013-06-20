@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfIsUpdateCSVFrame
+# key : sfIsUpdateCSVFrame
+# --
+sfIsUpdateCSVFrame(${1:&\$arrCSVFrame})$0

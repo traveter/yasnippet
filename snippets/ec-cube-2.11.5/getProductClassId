@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getProductClassId
+# key : getProductClassId
+# --
+getProductClassId(${1:\$cart_no}, ${2:\$productTypeId})$0

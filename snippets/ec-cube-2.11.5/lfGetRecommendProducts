@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetRecommendProducts
+# key : lfGetRecommendProducts
+# --
+lfGetRecommendProducts(${1:&\$arrForm})$0

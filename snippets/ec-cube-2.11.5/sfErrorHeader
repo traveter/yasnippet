@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfErrorHeader
+# key : sfErrorHeader
+# --
+sfErrorHeader(${1:\$mess}, ${2:\$print = false})$0

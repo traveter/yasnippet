@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getProductsClassByProductIds
+# key : getProductsClassByProductIds
+# --
+getProductsClassByProductIds(${1:\$productIds = array()}, ${2:\$has_deleted = false})$0

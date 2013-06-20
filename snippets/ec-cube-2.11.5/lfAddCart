@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfAddCart
+# key : lfAddCart
+# --
+lfAddCart(${1:\$arrForm}, ${2:\$referer})$0

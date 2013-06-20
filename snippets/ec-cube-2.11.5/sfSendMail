@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSendMail
+# key : sfSendMail
+# --
+sfSendMail(${1:\$to}, ${2:\$tmp_subject}, ${3:\$body})$0

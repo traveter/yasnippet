@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCustomerId
+# key : sfGetCustomerId
+# --
+sfGetCustomerId(${1:\$uniqid}, ${2:\$check_status = false})$0

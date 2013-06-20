@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getSearchArray
+# key : getSearchArray
+# --
+getSearchArray(${1:\$prefix = 'search_'})$0

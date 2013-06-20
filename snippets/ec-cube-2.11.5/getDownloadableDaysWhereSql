@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getDownloadableDaysWhereSql
+# key : getDownloadableDaysWhereSql
+# --
+getDownloadableDaysWhereSql(${1:\$dtb_order_alias = 'dtb_order'})$0

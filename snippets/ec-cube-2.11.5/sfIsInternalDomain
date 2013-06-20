@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfIsInternalDomain
+# key : sfIsInternalDomain
+# --
+sfIsInternalDomain(${1:\$url})$0

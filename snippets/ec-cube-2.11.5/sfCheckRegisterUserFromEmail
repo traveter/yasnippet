@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCheckRegisterUserFromEmail
+# key : sfCheckRegisterUserFromEmail
+# --
+sfCheckRegisterUserFromEmail(${1:\$email})$0

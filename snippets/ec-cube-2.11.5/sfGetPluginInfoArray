@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetPluginInfoArray
+# key : sfGetPluginInfoArray
+# --
+sfGetPluginInfoArray(${1:\$path})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetCurrentCart
+# key : lfSetCurrentCart
+# --
+lfSetCurrentCart(${1:&\$objSiteSess}, ${2:&\$objCartSess}, ${3:\$cartKey})$0

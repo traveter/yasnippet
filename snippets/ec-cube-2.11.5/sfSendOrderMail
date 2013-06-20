@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSendOrderMail
+# key : sfSendOrderMail
+# --
+sfSendOrderMail(${1:\$order_id}, ${2:\$template_id}, ${3:\$subject = ""}, ${4:\$header = ""}, ${5:\$footer = ""}, ${6:\$send = true})$0

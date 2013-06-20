@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCSVList
+# key : sfGetCSVList
+# --
+sfGetCSVList(${1:\$array})$0

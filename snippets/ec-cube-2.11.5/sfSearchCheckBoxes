@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSearchCheckBoxes
+# key : sfSearchCheckBoxes
+# --
+sfSearchCheckBoxes(${1:\$array})$0

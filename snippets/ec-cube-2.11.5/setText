@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setText
+# key : setText
+# --
+setText(${1:\$font_size}, ${2:\$left}, ${3:\$top}, ${4:\$text}, ${5:\$color = NULL}, ${6:\$angle = 0}, ${7:\$labelbg = false})$0

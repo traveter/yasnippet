@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetArcPos
+# key : lfGetArcPos
+# --
+lfGetArcPos(${1:\$cx}, ${2:\$cy}, ${3:\$cw}, ${4:\$ch}, ${5:\$e})$0

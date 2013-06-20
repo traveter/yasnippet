@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getSubData
+# key : getSubData
+# --
+getSubData(${1:\$key = null}, ${2:\$force = false})$0

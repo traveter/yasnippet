@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setMainListImage
+# key : setMainListImage
+# --
+setMainListImage(${1:\$arrOrderDetails})$0

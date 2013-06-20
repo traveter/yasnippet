@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :outputGraph
+# key : outputGraph
+# --
+outputGraph(${1:\$header = true}, ${2:\$filename = ""})$0

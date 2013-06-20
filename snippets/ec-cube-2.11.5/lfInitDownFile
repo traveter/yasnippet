@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitDownFile
+# key : lfInitDownFile
+# --
+lfInitDownFile(${1:&\$objDownFile})$0

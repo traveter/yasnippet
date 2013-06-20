@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetGraphLine
+# key : lfGetGraphLine
+# --
+lfGetGraphLine(${1:\$arrResults}, ${2:\$keyname}, ${3:\$type}, ${4:\$xtitle}, ${5:\$ytitle}, ${6:\$sdate}, ${7:\$edate})$0

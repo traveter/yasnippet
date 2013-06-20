@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetFavoriteProduct
+# key : lfGetFavoriteProduct
+# --
+lfGetFavoriteProduct(${1:\$customer_id}, ${2:&\$objPage})$0

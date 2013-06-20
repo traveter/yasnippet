@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :createPdf
+# key : createPdf
+# --
+createPdf(${1:&\$objFormParam})$0

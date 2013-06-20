@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerCategory
+# key : registerCategory
+# --
+registerCategory(${1:\$parent_category_id}, ${2:\$category_name}, ${3:\$creator_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerCategory
+# key : registerCategory
+# --
+registerCategory(${1:\$parent_category_id}, ${2:\$category_name}, ${3:\$creator_id}, ${4:\$category_id = null})$0

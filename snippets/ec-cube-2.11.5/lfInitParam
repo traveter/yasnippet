@@ -1,0 +1,48 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParam
+# key : lfInitParam
+# --
+lfInitParam(${1:\$arrRequest})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParam
+# key : lfInitParam
+# --
+lfInitParam(${1:\$mode}, ${2:&\$objFormParam})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParam
+# key : lfInitParam
+# --
+lfInitParam(${1:\$tpl_mode}, ${2:&\$objFormParam})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParam
+# key : lfInitParam
+# --
+lfInitParam(${1:&\$objFormParam})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParam
+# key : lfInitParam
+# --
+lfInitParam(${1:&\$objFormParam}, ${2:\$bloc_cnt = 0})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParam
+# key : lfInitParam
+# --
+lfInitParam(${1:&\$objFormParam}, ${2:\$deliv_only}, ${3:&\$arrShipping})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParam
+# key : lfInitParam
+# --
+lfInitParam(${1:&\$objFormParam}, ${2:\$post})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParam
+# key : lfInitParam
+# --
+lfInitParam(${1:&\$objFormParam}, ${2:&\$arrCSVFrame})$0

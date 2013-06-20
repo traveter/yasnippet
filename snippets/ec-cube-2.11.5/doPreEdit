@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doPreEdit
+# key : doPreEdit
+# --
+doPreEdit(${1:&\$objFormParam})$0

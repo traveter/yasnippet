@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isOverLevel
+# key : isOverLevel
+# --
+isOverLevel(${1:\$parent_category_id})$0

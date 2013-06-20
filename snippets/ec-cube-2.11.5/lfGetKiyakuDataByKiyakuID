@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetKiyakuDataByKiyakuID
+# key : lfGetKiyakuDataByKiyakuID
+# --
+lfGetKiyakuDataByKiyakuID(${1:\$kiyaku_id})$0

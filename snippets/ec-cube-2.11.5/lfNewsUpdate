@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfNewsUpdate
+# key : lfNewsUpdate
+# --
+lfNewsUpdate(${1:\$arrPost},${2:\$member_id})$0

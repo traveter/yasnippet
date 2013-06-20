@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistEmailMobile
+# key : lfRegistEmailMobile
+# --
+lfRegistEmailMobile(${1:\$email_mobile}, ${2:\$customer_id})$0

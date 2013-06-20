@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :addProduct
+# key : addProduct
+# --
+addProduct(${1:\$product_class_id}, ${2:\$quantity})$0

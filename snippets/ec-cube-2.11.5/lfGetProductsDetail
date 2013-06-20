@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetProductsDetail
+# key : lfGetProductsDetail
+# --
+lfGetProductsDetail(${1:&\$objQuery}, ${2:\$product_id = 'all'})$0

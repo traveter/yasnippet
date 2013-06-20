@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getAll
+# key : getAll
+# --
+getAll(${1:\$sql}, ${2:\$arrval = array()}, ${3:\$fetchmode = MDB2_FETCHMODE_ASSOC})$0

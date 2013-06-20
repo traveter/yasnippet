@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sendMail
+# key : sendMail
+# --
+sendMail(${1:\$isHtml = false})$0

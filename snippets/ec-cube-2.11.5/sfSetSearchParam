@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSetSearchParam
+# key : sfSetSearchParam
+# --
+sfSetSearchParam(${1:&\$objFormParam})$0

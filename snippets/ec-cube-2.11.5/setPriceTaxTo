@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setPriceTaxTo
+# key : setPriceTaxTo
+# --
+setPriceTaxTo(${1:\$arrProducts})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setLimit
+# key : setLimit
+# --
+setLimit(${1:\$limit})$0

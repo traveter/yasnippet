@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCat
+# key : sfGetCat
+# --
+sfGetCat(${1:\$category_id})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistMailTemplate
+# key : lfRegistMailTemplate
+# --
+lfRegistMailTemplate(${1:\$post}, ${2:\$member_id})$0

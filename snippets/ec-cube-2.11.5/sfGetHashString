@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetHashString
+# key : sfGetHashString
+# --
+sfGetHashString(${1:\$str}, ${2:\$salt})$0

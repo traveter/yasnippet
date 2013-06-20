@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :checkErrorDispFile
+# key : checkErrorDispFile
+# --
+checkErrorDispFile(${1:\$objFormParam})$0

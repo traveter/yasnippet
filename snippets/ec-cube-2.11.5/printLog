@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :printLog
+# key : printLog
+# --
+printLog(${1:\$msg})$0

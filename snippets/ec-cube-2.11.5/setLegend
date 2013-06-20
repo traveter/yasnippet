@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setLegend
+# key : setLegend
+# --
+setLegend(${1:\$arrLegend})$0

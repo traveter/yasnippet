@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCustomerData
+# key : sfGetCustomerData
+# --
+sfGetCustomerData(${1:\$customer_id}, ${2:\$mask_flg = true})$0

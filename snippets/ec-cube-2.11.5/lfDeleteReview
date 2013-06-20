@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDeleteReview
+# key : lfDeleteReview
+# --
+lfDeleteReview(${1:\$review_id})$0

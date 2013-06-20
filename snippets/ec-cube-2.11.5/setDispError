@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setDispError
+# key : setDispError
+# --
+setDispError(${1:\$key}, ${2:\$value})$0

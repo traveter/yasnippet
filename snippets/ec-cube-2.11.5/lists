@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lists
+# key : lists
+# --
+lists(${1:&\$objQuery})$0

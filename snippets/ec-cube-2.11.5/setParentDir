@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setParentDir
+# key : setParentDir
+# --
+setParentDir(${1:\$objFormParam})$0

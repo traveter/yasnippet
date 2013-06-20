@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDoOutputCsv
+# key : lfDoOutputCsv
+# --
+lfDoOutputCsv(${1:\$where}, ${2:\$arrVal})$0

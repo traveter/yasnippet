@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfAddTotalLine
+# key : lfAddTotalLine
+# --
+lfAddTotalLine(${1:\$arrResults})$0

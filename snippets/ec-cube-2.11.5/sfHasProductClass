@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfHasProductClass
+# key : sfHasProductClass
+# --
+sfHasProductClass(${1:\$product_id})$0

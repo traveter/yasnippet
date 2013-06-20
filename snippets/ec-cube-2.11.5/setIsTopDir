@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setIsTopDir
+# key : setIsTopDir
+# --
+setIsTopDir(${1:\$objFormParam})$0

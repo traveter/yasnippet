@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :placingBlocs
+# key : placingBlocs
+# --
+placingBlocs(${1:&\$objFormParam}, ${2:\$is_preview = false})$0

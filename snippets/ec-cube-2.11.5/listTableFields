@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :listTableFields
+# key : listTableFields
+# --
+listTableFields(${1:\$table})$0

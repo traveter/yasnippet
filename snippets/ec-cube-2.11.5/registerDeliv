@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerDeliv
+# key : registerDeliv
+# --
+registerDeliv(${1:\$deliv_check}, ${2:\$uniqid}, ${3:&\$objPurchase}, ${4:&\$objCustomer})$0

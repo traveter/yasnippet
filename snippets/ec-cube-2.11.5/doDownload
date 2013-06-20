@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDownload
+# key : doDownload
+# --
+doDownload(${1:\$template_code})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getProductList
+# key : getProductList
+# --
+getProductList(${1:\$arrProductId}, ${2:&\$objProduct})$0

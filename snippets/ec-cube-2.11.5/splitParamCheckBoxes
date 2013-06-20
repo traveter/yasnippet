@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :splitParamCheckBoxes
+# key : splitParamCheckBoxes
+# --
+splitParamCheckBoxes(${1:\$keyname})$0

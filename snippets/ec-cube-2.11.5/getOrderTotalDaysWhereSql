@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getOrderTotalDaysWhereSql
+# key : getOrderTotalDaysWhereSql
+# --
+getOrderTotalDaysWhereSql(${1:\$type})$0

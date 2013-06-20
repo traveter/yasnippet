@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfPrintR
+# key : sfPrintR
+# --
+sfPrintR(${1:\$obj})$0

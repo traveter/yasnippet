@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckProductsClass
+# key : lfCheckProductsClass
+# --
+lfCheckProductsClass(${1:&\$objFormParam})$0

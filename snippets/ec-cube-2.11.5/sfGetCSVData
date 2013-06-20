@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCSVData
+# key : sfGetCSVData
+# --
+sfGetCSVData(${1:\$data}, ${2:\$prefix = ""})$0

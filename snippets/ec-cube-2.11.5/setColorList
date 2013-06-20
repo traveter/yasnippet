@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setColorList
+# key : setColorList
+# --
+setColorList(${1:\$arrRGB})$0

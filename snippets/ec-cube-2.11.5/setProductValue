@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setProductValue
+# key : setProductValue
+# --
+setProductValue(${1:\$id}, ${2:\$key}, ${3:\$val}, ${4:\$productTypeId})$0

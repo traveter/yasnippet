@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getListCSV
+# key : getListCSV
+# --
+getListCSV(${1:\$arrColumnCSV})$0

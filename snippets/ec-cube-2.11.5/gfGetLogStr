@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfGetLogStr
+# key : gfGetLogStr
+# --
+gfGetLogStr(${1:\$mess}, ${2:\$log_level='Info'})$0

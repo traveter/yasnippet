@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCheckCustomerMailMaga
+# key : sfCheckCustomerMailMaga
+# --
+sfCheckCustomerMailMaga(${1:\$email})$0

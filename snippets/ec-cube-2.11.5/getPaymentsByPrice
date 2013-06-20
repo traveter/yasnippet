@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getPaymentsByPrice
+# key : getPaymentsByPrice
+# --
+getPaymentsByPrice(${1:\$total}, ${2:\$deliv_id})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetOrderAge
+# key : lfGetOrderAge
+# --
+lfGetOrderAge(${1:\$type}, ${2:\$sdate}, ${3:\$edate})$0

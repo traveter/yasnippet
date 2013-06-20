@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDownRankChilds
+# key : lfDownRankChilds
+# --
+lfDownRankChilds(${1:\$objQuery}, ${2:\$table}, ${3:\$pid_name}, ${4:\$id_name}, ${5:\$id}, ${6:\$count})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setProductsOrder
+# key : setProductsOrder
+# --
+setProductsOrder(${1:\$col}, ${2:\$table = 'dtb_products'}, ${3:\$order = 'ASC'})$0

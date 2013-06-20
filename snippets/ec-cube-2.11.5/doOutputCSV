@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doOutputCSV
+# key : doOutputCSV
+# --
+doOutputCSV(${1:\$where}, ${2:\$arrVal}, ${3:\$order})$0

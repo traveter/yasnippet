@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getOrderDetail
+# key : getOrderDetail
+# --
+getOrderDetail(${1:\$order_id}, ${2:\$has_order_status = true})$0

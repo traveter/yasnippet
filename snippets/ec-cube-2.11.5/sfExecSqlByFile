@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfExecSqlByFile
+# key : sfExecSqlByFile
+# --
+sfExecSqlByFile(${1:\$sqlFilePath})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :saveResizeImage
+# key : saveResizeImage
+# --
+saveResizeImage(${1:\$keyname}, ${2:\$to_w}, ${3:\$to_h})$0

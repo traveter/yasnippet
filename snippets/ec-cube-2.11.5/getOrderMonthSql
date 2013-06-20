@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getOrderMonthSql
+# key : getOrderMonthSql
+# --
+getOrderMonthSql(${1:\$method})$0

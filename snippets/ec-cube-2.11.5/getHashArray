@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getHashArray
+# key : getHashArray
+# --
+getHashArray(${1:\$arrKey = array()})$0

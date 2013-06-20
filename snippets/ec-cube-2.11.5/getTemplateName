@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTemplateName
+# key : getTemplateName
+# --
+getTemplateName(${1:\$device_type_id}, ${2:\$isDefault = false})$0

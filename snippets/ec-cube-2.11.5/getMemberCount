@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMemberCount
+# key : getMemberCount
+# --
+getMemberCount(${1:\$where})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetProductName
+# key : lfGetProductName
+# --
+lfGetProductName(${1:\$product_id})$0

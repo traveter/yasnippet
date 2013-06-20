@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetParentDir
+# key : lfGetParentDir
+# --
+lfGetParentDir(${1:\$dir})$0

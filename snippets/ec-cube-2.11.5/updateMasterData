@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :updateMasterData
+# key : updateMasterData
+# --
+updateMasterData(${1:\$name}, ${2:\$columns}, ${3:\$masterData}, ${4:\$autoCommit = true})$0

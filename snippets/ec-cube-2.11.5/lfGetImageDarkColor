@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetImageDarkColor
+# key : lfGetImageDarkColor
+# --
+lfGetImageDarkColor(${1:\$image}, ${2:\$array})$0

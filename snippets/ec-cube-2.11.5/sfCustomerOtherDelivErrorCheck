@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCustomerOtherDelivErrorCheck
+# key : sfCustomerOtherDelivErrorCheck
+# --
+sfCustomerOtherDelivErrorCheck(${1:&\$objFormParam})$0

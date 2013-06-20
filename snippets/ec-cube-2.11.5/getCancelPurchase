@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCancelPurchase
+# key : getCancelPurchase
+# --
+getCancelPurchase(${1:\$productTypeId})$0

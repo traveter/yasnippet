@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetWhereMember
+# key : lfGetWhereMember
+# --
+lfGetWhereMember(${1:\$col_date}, ${2:\$sdate}, ${3:\$edate}, ${4:\$type}, ${5:\$col_member = "customer_id"})$0

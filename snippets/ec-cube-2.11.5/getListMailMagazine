@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getListMailMagazine
+# key : getListMailMagazine
+# --
+getListMailMagazine(${1:\$is_mobile = false})$0

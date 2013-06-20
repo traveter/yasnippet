@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :createIndex
+# key : createIndex
+# --
+createIndex(${1:\$table}, ${2:\$name}, ${3:\$definition})$0

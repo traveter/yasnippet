@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :findTree
+# key : findTree
+# --
+findTree(${1:&\$arrTree}, ${2:\$parent}, ${3:&\$result})$0

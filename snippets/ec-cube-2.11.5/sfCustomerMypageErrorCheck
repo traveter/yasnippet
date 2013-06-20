@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCustomerMypageErrorCheck
+# key : sfCustomerMypageErrorCheck
+# --
+sfCustomerMypageErrorCheck(${1:&\$objFormParam}, ${2:\$isAdmin = false})$0

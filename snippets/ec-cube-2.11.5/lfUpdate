@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdate
+# key : lfUpdate
+# --
+lfUpdate(${1:&\$arrForm})$0

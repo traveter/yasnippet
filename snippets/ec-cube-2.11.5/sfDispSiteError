@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfDispSiteError
+# key : sfDispSiteError
+# --
+sfDispSiteError(${1:\$type}, ${2:\$objSiteSess = ""}, ${3:\$return_top = false}, ${4:\$err_msg = ""})$0

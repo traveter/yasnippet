@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRenumber
+# key : lfRenumber
+# --
+lfRenumber(${1:\$parent_category_id})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistFavoriteProduct
+# key : lfRegistFavoriteProduct
+# --
+lfRegistFavoriteProduct(${1:\$favorite_product_id},${2:\$customer_id})$0

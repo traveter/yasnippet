@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getNameAddress
+# key : getNameAddress
+# --
+getNameAddress(${1:\$name}, ${2:\$mail_address})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :selectRange
+# key : selectRange
+# --
+selectRange(${1:\$from}, ${2:\$to}, ${3:\$column})$0

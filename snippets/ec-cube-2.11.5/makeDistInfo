@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :makeDistInfo
+# key : makeDistInfo
+# --
+makeDistInfo(${1:\$bkupDistInfoArray})$0

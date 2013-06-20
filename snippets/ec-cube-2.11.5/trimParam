@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :trimParam
+# key : trimParam
+# --
+trimParam(${1:\$has_wide_space = true})$0

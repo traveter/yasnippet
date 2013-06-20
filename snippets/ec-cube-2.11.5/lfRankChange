@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRankChange
+# key : lfRankChange
+# --
+lfRankChange(${1:\$maker_id}, ${2:\$mode})$0

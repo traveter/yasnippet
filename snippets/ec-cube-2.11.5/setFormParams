@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setFormParams
+# key : setFormParams
+# --
+setFormParams(${1:&\$objFormParam}, ${2:\$arrParam}, ${3:\$deliv_only}, ${4:&\$arrShipping})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setFormParams
+# key : setFormParams
+# --
+setFormParams(${1:&\$objFormParam}, ${2:&\$objPurchase}, ${3:\$uniqid})$0

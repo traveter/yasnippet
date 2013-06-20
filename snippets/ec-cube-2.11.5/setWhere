@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setWhere
+# key : setWhere
+# --
+setWhere(${1:\$where = ''}, ${2:\$arrWhereVal = array()})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setWhere
+# key : setWhere
+# --
+setWhere(${1:\$where})$0

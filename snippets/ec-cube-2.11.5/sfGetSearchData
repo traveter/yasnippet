@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetSearchData
+# key : sfGetSearchData
+# --
+sfGetSearchData(${1:\$arrParam}, ${2:\$limitMode = ''})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetSendHistory
+# key : sfGetSendHistory
+# --
+sfGetSendHistory(${1:\$send_id = null})$0

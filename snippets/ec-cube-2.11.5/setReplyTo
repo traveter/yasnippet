@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setReplyTo
+# key : setReplyTo
+# --
+setReplyTo(${1:\$reply_to})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :defineIfNotDefined
+# key : defineIfNotDefined
+# --
+defineIfNotDefined(${1:\$name}, ${2:\$value = null})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doFileDelete
+# key : doFileDelete
+# --
+doFileDelete(${1:&\$objFormParam})$0

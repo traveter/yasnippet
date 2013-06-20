@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :createParam
+# key : createParam
+# --
+createParam(${1:\$value})$0

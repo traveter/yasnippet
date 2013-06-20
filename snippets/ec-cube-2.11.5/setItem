@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setItem
+# key : setItem
+# --
+setItem(${1:\$to}, ${2:\$subject}, ${3:\$body}, ${4:\$fromaddress}, ${5:\$from_name}, ${6:\$reply_to=""}, ${7:\$return_path=""}, ${8:\$errors_to=""}, ${9:\$bcc=""}, ${10:\$cc =""})$0

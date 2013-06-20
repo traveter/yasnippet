@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCode
+# key : getCode
+# --
+getCode(${1:\$toUpper = false})$0

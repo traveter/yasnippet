@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getDelivTime
+# key : getDelivTime
+# --
+getDelivTime(${1:\$deliv_id})$0

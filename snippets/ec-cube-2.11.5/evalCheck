@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :evalCheck
+# key : evalCheck
+# --
+evalCheck(${1:\$value})$0

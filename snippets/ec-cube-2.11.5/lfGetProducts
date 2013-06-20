@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetProducts
+# key : lfGetProducts
+# --
+lfGetProducts(${1:&\$objDb})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfDownloadCsv
+# key : gfDownloadCsv
+# --
+gfDownloadCsv(${1:\$header}, ${2:\$contents})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getInstance
+# key : getInstance
+# --
+getInstance(${1:\$db_type = DB_TYPE})$0

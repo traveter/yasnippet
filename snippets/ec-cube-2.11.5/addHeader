@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :addHeader
+# key : addHeader
+# --
+addHeader(${1:\$name}, ${2:\$value})$0

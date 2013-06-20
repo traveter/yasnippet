@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMakeSubject
+# key : sfMakeSubject
+# --
+sfMakeSubject(${1:\$subject}, ${2:&\$objMailView})$0

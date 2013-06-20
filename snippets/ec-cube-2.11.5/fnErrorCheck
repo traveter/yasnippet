@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :fnErrorCheck
+# key : fnErrorCheck
+# --
+fnErrorCheck(${1:\$arrRequest})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTplJavascript
+# key : getTplJavascript
+# --
+getTplJavascript(${1:&\$objProduct})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getOrderYesterdaySql
+# key : getOrderYesterdaySql
+# --
+getOrderYesterdaySql(${1:\$method})$0

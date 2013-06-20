@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :createCache
+# key : createCache
+# --
+createCache(${1:\$name}, ${2:\$columns = array()}$0

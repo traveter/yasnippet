@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfArrayToCsv
+# key : sfArrayToCsv
+# --
+sfArrayToCsv(${1:\$fields}, ${2:\$delimiter = '},', ${3:\$enclosure = '"'}, ${4:\$arrayDelimiter = '}|')$0

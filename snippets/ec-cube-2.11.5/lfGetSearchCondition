@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetSearchCondition
+# key : lfGetSearchCondition
+# --
+lfGetSearchCondition(${1:\$arrSearchData})$0

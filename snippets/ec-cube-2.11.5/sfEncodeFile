@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfEncodeFile
+# key : sfEncodeFile
+# --
+sfEncodeFile(${1:\$filepath}, ${2:\$enc_type}, ${3:\$out_dir})$0

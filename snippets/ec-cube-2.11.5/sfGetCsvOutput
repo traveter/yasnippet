@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCsvOutput
+# key : sfGetCsvOutput
+# --
+sfGetCsvOutput(${1:\$csv_id = ""}, ${2:\$where = ''}, ${3:\$arrVal = array()}, ${4:\$order = 'rank}, no')$0

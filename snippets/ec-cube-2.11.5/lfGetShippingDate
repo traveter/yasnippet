@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetShippingDate
+# key : lfGetShippingDate
+# --
+lfGetShippingDate(${1:&\$objPurchase}, ${2:\$order_id}, ${3:\$arrWDAY})$0

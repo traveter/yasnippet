@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getLineCount
+# key : getLineCount
+# --
+getLineCount(${1:\$whereAndBind},${2:&\$objProduct})$0

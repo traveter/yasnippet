@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :checkTempCustomer
+# key : checkTempCustomer
+# --
+checkTempCustomer(${1:\$login_email})$0

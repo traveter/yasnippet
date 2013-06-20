@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :request
+# key : request
+# --
+request(${1:\$mode}, ${2:\$arrParams = array()}, ${3:\$arrCookies = array()})$0

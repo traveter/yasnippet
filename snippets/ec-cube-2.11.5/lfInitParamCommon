@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitParamCommon
+# key : lfInitParamCommon
+# --
+lfInitParamCommon(${1:&\$objFormParam})$0

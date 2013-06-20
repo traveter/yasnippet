@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setDBFileList
+# key : setDBFileList
+# --
+setDBFileList(${1:\$arrVal})$0

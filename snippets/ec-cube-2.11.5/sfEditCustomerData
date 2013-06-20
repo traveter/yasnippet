@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfEditCustomerData
+# key : sfEditCustomerData
+# --
+sfEditCustomerData(${1:\$array}, ${2:\$customer_id = null})$0

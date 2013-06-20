@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfTrimURL
+# key : sfTrimURL
+# --
+sfTrimURL(${1:\$url})$0

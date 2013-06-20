@@ -1,0 +1,42 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDelete
+# key : doDelete
+# --
+doDelete(${1:\$css_path})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDelete
+# key : doDelete
+# --
+doDelete(${1:\$other_deliv_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDelete
+# key : doDelete
+# --
+doDelete(${1:\$product_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDelete
+# key : doDelete
+# --
+doDelete(${1:\$template_code}, ${2:\$device_type_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDelete
+# key : doDelete
+# --
+doDelete(${1:\$where}, ${2:\$arrParam = array()})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDelete
+# key : doDelete
+# --
+doDelete(${1:&\$objFormParam}, ${2:&\$objDb})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDelete
+# key : doDelete
+# --
+doDelete(${1:&\$objFormParam}, ${2:&\$objLayout})$0

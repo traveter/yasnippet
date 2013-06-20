@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetOrderMonth
+# key : lfGetOrderMonth
+# --
+lfGetOrderMonth(${1:\$method})$0

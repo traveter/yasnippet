@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setPref
+# key : setPref
+# --
+setPref(${1:\$arrOtherDeliv}, ${2:\$arrPref})$0

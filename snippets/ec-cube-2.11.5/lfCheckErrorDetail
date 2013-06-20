@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckErrorDetail
+# key : lfCheckErrorDetail
+# --
+lfCheckErrorDetail(${1:\$item}, ${2:\$arrErr})$0

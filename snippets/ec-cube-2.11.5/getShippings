@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getShippings
+# key : getShippings
+# --
+getShippings(${1:\$order_id}, ${2:\$has_items = true})$0

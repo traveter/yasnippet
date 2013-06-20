@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDoChange
+# key : lfDoChange
+# --
+lfDoChange(${1:&\$objFormParam})$0

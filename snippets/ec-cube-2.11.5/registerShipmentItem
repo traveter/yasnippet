@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerShipmentItem
+# key : registerShipmentItem
+# --
+registerShipmentItem(${1:\$order_id}, ${2:\$shipping_id}, ${3:\$arrParams})$0

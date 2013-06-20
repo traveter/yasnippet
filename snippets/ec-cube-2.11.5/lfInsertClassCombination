@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInsertClassCombination
+# key : lfInsertClassCombination
+# --
+lfInsertClassCombination(${1:\$arrClassCombination}, ${2:\$arrParentCombinationId = array()})$0

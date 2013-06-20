@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfIsLoginMember
+# key : lfIsLoginMember
+# --
+lfIsLoginMember(${1:\$login_id}, ${2:\$pass})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDeleteMailTemplate
+# key : lfDeleteMailTemplate
+# --
+lfDeleteMailTemplate(${1:\$template_id})$0

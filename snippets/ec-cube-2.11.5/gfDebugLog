@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfDebugLog
+# key : gfDebugLog
+# --
+gfDebugLog(${1:\$obj})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSplitCheckBoxes
+# key : sfSplitCheckBoxes
+# --
+sfSplitCheckBoxes(${1:\$val})$0

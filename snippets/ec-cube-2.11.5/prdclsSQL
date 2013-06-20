@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :prdclsSQL
+# key : prdclsSQL
+# --
+prdclsSQL(${1:\$where = ""})$0

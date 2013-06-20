@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetOtherDeliv
+# key : lfGetOtherDeliv
+# --
+lfGetOtherDeliv(${1:\$customer_id}, ${2:\$other_deliv_id})$0

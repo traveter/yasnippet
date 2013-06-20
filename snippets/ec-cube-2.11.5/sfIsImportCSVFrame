@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfIsImportCSVFrame
+# key : sfIsImportCSVFrame
+# --
+sfIsImportCSVFrame(${1:&\$arrCSVFrame})$0

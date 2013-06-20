@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :select
+# key : select
+# --
+select(${1:\$col}, ${2:\$table}, ${3:\$where = ""}, ${4:\$arrWhereVal = array()}, ${5:\$fetchmode = MDB2_FETCHMODE_ASSOC})$0

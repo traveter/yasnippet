@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getOrderTempByOrderId
+# key : getOrderTempByOrderId
+# --
+getOrderTempByOrderId(${1:\$order_id})$0

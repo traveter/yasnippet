@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setPort
+# key : setPort
+# --
+setPort(${1:\$port})$0

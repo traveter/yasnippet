@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setCustomerTo
+# key : setCustomerTo
+# --
+setCustomerTo(${1:\$customer_id}, ${2:&\$objFormParam})$0

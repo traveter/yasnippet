@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfAddBlankLine
+# key : lfAddBlankLine
+# --
+lfAddBlankLine(${1:\$arrResults}, ${2:\$type}, ${3:\$st}, ${4:\$ed})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckReferer
+# key : lfCheckReferer
+# --
+lfCheckReferer(${1:&\$post}, ${2:\$referer})$0

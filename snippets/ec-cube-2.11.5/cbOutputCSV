@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :cbOutputCSV
+# key : cbOutputCSV
+# --
+cbOutputCSV(${1:\$data})$0

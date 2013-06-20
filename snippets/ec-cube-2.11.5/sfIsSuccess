@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfIsSuccess
+# key : sfIsSuccess
+# --
+sfIsSuccess(${1:\$objSess}, ${2:\$disp_error = true})$0

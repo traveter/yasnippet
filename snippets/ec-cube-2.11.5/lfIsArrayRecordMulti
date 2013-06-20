@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfIsArrayRecordMulti
+# key : lfIsArrayRecordMulti
+# --
+lfIsArrayRecordMulti(${1:\$arr}, ${2:\$keyname}, ${3:\$item}, ${4:\$delimiter = '},')$0

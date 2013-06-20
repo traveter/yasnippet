@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setBCc
+# key : setBCc
+# --
+setBCc(${1:\$bcc})$0

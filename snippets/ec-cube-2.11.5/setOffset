@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setOffset
+# key : setOffset
+# --
+setOffset(${1:\$offset})$0

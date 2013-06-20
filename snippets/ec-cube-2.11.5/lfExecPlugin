@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfExecPlugin
+# key : lfExecPlugin
+# --
+lfExecPlugin(${1:\$plugin_id}, ${2:\$plugin_code}, ${3:\$exec_mode})$0

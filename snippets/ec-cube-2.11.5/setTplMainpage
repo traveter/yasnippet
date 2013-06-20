@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setTplMainpage
+# key : setTplMainpage
+# --
+setTplMainpage(${1:\$bloc_file})$0

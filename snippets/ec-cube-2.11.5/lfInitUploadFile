@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitUploadFile
+# key : lfInitUploadFile
+# --
+lfInitUploadFile(${1:\$objForm})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitUploadFile
+# key : lfInitUploadFile
+# --
+lfInitUploadFile(${1:&\$objUpFile})$0

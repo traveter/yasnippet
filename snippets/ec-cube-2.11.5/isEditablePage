@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isEditablePage
+# key : isEditablePage
+# --
+isEditablePage(${1:\$device_type_id}, ${2:\$page_id})$0

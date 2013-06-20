@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :hasPaymentImage
+# key : hasPaymentImage
+# --
+hasPaymentImage(${1:\$arrPayment})$0

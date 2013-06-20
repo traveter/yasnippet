@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfMakeSqlVal
+# key : lfMakeSqlVal
+# --
+lfMakeSqlVal(${1:&\$objFormParam})$0

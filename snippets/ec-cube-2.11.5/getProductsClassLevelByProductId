@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getProductsClassLevelByProductId
+# key : getProductsClassLevelByProductId
+# --
+getProductsClassLevelByProductId(${1:\$productId})$0

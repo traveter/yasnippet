@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setOption
+# key : setOption
+# --
+setOption(${1:\$str})$0

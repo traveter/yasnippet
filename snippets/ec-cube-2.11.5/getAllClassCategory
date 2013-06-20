@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getAllClassCategory
+# key : getAllClassCategory
+# --
+getAllClassCategory(${1:\$class_id1}, ${2:\$class_id2 = null})$0

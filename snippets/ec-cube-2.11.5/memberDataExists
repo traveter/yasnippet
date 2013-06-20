@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :memberDataExists
+# key : memberDataExists
+# --
+memberDataExists(${1:\$where}, ${2:\$val})$0

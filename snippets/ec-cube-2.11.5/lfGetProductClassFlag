@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetProductClassFlag
+# key : lfGetProductClassFlag
+# --
+lfGetProductClassFlag(${1:\$has_product_class})$0

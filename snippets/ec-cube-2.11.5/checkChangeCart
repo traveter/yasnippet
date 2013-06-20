@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :checkChangeCart
+# key : checkChangeCart
+# --
+checkChangeCart(${1:\$productTypeId})$0

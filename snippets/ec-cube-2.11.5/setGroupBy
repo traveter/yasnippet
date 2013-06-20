@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setGroupBy
+# key : setGroupBy
+# --
+setGroupBy(${1:\$str})$0

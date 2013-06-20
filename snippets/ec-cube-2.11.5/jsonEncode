@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :jsonEncode
+# key : jsonEncode
+# --
+jsonEncode(${1:\$value})$0

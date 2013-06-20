@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isSingleDeliv
+# key : isSingleDeliv
+# --
+isSingleDeliv(${1:\$arrDeliv})$0

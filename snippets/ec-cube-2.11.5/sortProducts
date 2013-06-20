@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sortProducts
+# key : sortProducts
+# --
+sortProducts(${1:\$arrProduct_id},${2:\$productList})$0

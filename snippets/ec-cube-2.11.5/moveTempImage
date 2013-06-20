@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :moveTempImage
+# key : moveTempImage
+# --
+moveTempImage(${1:\$filename}, ${2:\$save_dir})$0

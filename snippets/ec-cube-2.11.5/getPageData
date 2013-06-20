@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getPageData
+# key : getPageData
+# --
+getPageData(${1:\$where = ''}, ${2:\$arrVal = ''})$0

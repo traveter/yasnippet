@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfAddToPluginsXml
+# key : lfAddToPluginsXml
+# --
+lfAddToPluginsXml(${1:\$path})$0

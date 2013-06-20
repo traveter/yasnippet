@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInsertDummyProductClass
+# key : lfInsertDummyProductClass
+# --
+lfInsertDummyProductClass(${1:\$arrList})$0

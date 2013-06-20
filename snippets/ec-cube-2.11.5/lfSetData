@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetData
+# key : lfSetData
+# --
+lfSetData(${1:\$arrPageData}, ${2:\$arrDispData})$0

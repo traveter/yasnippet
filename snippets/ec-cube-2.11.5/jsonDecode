@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :jsonDecode
+# key : jsonDecode
+# --
+jsonDecode(${1:\$json})$0

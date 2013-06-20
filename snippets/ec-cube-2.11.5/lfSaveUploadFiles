@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSaveUploadFiles
+# key : lfSaveUploadFiles
+# --
+lfSaveUploadFiles(${1:&\$objUpFile}, ${2:&\$objDownFile}, ${3:\$product_id})$0

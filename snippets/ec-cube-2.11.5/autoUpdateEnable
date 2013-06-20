@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :autoUpdateEnable
+# key : autoUpdateEnable
+# --
+autoUpdateEnable(${1:\$product_id})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setProductStatus
+# key : setProductStatus
+# --
+setProductStatus(${1:\$productId}, ${2:\$productStatusIds})$0

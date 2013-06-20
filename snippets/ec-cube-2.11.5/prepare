@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :prepare
+# key : prepare
+# --
+prepare(${1:\$page}, ${2:\$is_admin = false})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :prepare
+# key : prepare
+# --
+prepare(${1:\$sql}, ${2:\$types = null}, ${3:\$result_types = MDB2_PREPARE_RESULT})$0

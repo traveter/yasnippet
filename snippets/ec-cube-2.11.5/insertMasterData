@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :insertMasterData
+# key : insertMasterData
+# --
+insertMasterData(${1:\$name}, ${2:\$key}, ${3:\$value}, ${4:\$comment}, ${5:\$autoCommit = true})$0

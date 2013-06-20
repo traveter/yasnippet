@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :andWhere
+# key : andWhere
+# --
+andWhere(${1:\$str})$0

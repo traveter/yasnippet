@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSessGc
+# key : sfSessGc
+# --
+sfSessGc(${1:\$maxlifetime})$0

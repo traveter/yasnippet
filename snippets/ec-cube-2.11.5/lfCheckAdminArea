@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckAdminArea
+# key : lfCheckAdminArea
+# --
+lfCheckAdminArea(${1:&\$arrForm}, ${2:&\$arrErr})$0

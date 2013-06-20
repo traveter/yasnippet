@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :reduceStock
+# key : reduceStock
+# --
+reduceStock(${1:\$productClassId}, ${2:\$quantity})$0

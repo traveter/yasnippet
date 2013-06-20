@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerOrder
+# key : registerOrder
+# --
+registerOrder(${1:\$order_id}, ${2:\$arrParams})$0

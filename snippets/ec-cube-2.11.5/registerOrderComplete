@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerOrderComplete
+# key : registerOrderComplete
+# --
+registerOrderComplete(${1:\$orderParams}, ${2:&\$objCartSession}, ${3:\$cartKey})$0

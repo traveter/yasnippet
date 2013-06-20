@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :process
+# key : process
+# --
+process(${1:\$mode})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :process
+# key : process
+# --
+process(${1:&\$lcpage})$0

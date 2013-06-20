@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setContentType
+# key : setContentType
+# --
+setContentType(${1:\$contentType})$0

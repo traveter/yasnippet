@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getPayments
+# key : getPayments
+# --
+getPayments(${1:\$deliv_id})$0

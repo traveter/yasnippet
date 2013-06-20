@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setProductsClassByProductIds
+# key : setProductsClassByProductIds
+# --
+setProductsClassByProductIds(${1:\$arrProductId}, ${2:\$has_deleted = false})$0

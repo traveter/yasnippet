@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setName
+# key : setName
+# --
+setName(${1:\$name})$0

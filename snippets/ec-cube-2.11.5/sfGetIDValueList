@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetIDValueList
+# key : sfGetIDValueList
+# --
+sfGetIDValueList(${1:\$table}, ${2:\$keyname}, ${3:\$valname}, ${4:\$where = ''}, ${5:\$arrVal = array()})$0

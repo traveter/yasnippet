@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setTemplate
+# key : setTemplate
+# --
+setTemplate(${1:\$template})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetErrors
+# key : lfGetErrors
+# --
+lfGetErrors(${1:\$arrErr})$0

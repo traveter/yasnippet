@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :debugPrint
+# key : debugPrint
+# --
+debugPrint(${1:\$text})$0

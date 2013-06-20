@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckProductId
+# key : lfCheckProductId
+# --
+lfCheckProductId(${1:\$admin_mode},${2:\$product_id})$0

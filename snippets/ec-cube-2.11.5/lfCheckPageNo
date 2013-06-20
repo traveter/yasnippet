@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckPageNo
+# key : lfCheckPageNo
+# --
+lfCheckPageNo(${1:\$pageno})$0

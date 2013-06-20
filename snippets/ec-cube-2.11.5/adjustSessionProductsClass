@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :adjustSessionProductsClass
+# key : adjustSessionProductsClass
+# --
+adjustSessionProductsClass(${1:&\$arrProductsClass})$0

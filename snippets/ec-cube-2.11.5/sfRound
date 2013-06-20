@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfRound
+# key : sfRound
+# --
+sfRound(${1:\$value}, ${2:\$pow = 0})$0

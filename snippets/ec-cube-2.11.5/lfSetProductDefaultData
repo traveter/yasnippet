@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetProductDefaultData
+# key : lfSetProductDefaultData
+# --
+lfSetProductDefaultData(${1:&\$sqlval})$0

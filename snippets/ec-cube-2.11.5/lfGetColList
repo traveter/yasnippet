@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetColList
+# key : lfGetColList
+# --
+lfGetColList(${1:\$table})$0

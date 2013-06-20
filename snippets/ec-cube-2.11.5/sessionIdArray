@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sessionIdArray
+# key : sessionIdArray
+# --
+sessionIdArray(${1:\$array = array()})$0

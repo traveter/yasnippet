@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckDeleteError
+# key : lfCheckDeleteError
+# --
+lfCheckDeleteError(${1:&\$objFormParam})$0

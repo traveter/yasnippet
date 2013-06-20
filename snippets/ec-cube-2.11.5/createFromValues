@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :createFromValues
+# key : createFromValues
+# --
+createFromValues(${1:\$order_id},${2:\$pdf_order_id})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCustomerDataFromEmailPass
+# key : getCustomerDataFromEmailPass
+# --
+getCustomerDataFromEmailPass( ${1:\$pass}, ${2:\$email}, ${3:\$mobile = false} )$0

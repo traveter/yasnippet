@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetTmpImageName
+# key : lfGetTmpImageName
+# --
+lfGetTmpImageName(${1:\$rename}, ${2:\$keyname = ""}, ${3:\$uploadfile = ""})$0

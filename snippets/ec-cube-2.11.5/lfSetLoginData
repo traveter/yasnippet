@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetLoginData
+# key : lfSetLoginData
+# --
+lfSetLoginData(${1:\$sid}, ${2:\$member_id}, ${3:\$login_id}, ${4:\$authority}, ${5:\$last_login})$0

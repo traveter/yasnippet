@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetPluginPathByPluginFullPath
+# key : sfGetPluginPathByPluginFullPath
+# --
+sfGetPluginPathByPluginFullPath(${1:\$pluginFullPath})$0

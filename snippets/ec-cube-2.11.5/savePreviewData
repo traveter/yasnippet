@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :savePreviewData
+# key : savePreviewData
+# --
+savePreviewData(${1:\$page_id}, ${2:&\$objLayout})$0

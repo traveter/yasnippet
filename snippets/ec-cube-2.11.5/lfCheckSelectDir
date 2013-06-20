@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckSelectDir
+# key : lfCheckSelectDir
+# --
+lfCheckSelectDir(${1:\$objFormParam}, ${2:\$dir})$0

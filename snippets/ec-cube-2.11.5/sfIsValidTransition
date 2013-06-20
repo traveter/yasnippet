@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfIsValidTransition
+# key : sfIsValidTransition
+# --
+sfIsValidTransition(${1:\$objSess})$0

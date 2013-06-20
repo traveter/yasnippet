@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfIsDbRecord
+# key : lfIsDbRecord
+# --
+lfIsDbRecord(${1:\$table}, ${2:\$keyname}, ${3:\$item})$0

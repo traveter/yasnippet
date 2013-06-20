@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setQuantity
+# key : setQuantity
+# --
+setQuantity(${1:\$quantity}, ${2:\$cart_no}, ${3:\$productTypeId})$0

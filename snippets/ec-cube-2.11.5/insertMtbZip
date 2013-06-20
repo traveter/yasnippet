@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :insertMtbZip
+# key : insertMtbZip
+# --
+insertMtbZip(${1:\$start = 1})$0

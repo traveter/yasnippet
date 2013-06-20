@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfChangeMySQL
+# key : sfChangeMySQL
+# --
+sfChangeMySQL(${1:\$sql})$0

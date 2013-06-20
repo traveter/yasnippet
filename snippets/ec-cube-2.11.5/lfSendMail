@@ -1,0 +1,18 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSendMail
+# key : lfSendMail
+# --
+lfSendMail(${1:\$uniqid}, ${2:\$arrForm})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSendMail
+# key : lfSendMail
+# --
+lfSendMail(${1:&\$CONF}, ${2:\$email}, ${3:\$customer_name}, ${4:\$new_password})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSendMail
+# key : lfSendMail
+# --
+lfSendMail(${1:&\$objPage})$0

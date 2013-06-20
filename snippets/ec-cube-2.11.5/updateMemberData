@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :updateMemberData
+# key : updateMemberData
+# --
+updateMemberData(${1:\$member_id}, ${2:\$arrMemberData})$0

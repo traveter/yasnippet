@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getDSN
+# key : getDSN
+# --
+getDSN(${1:\$dsn = ""})$0

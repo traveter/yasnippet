@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :changeData
+# key : changeData
+# --
+changeData(${1:&\$objFormParam})$0

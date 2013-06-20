@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfIsRecord
+# key : sfIsRecord
+# --
+sfIsRecord(${1:\$table}, ${2:\$col}, ${3:\$arrval}, ${4:\$addwhere = ""})$0

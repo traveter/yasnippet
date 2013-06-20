@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :alldtlSQL
+# key : alldtlSQL
+# --
+alldtlSQL(${1:\$where = ""})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :extractOnlyColsOf
+# key : extractOnlyColsOf
+# --
+extractOnlyColsOf(${1:\$table}, ${2:\$arrParams})$0

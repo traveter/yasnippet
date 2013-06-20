@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfRmDupSlash
+# key : sfRmDupSlash
+# --
+sfRmDupSlash(${1:\$istr})$0

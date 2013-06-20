@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setShadeOn
+# key : setShadeOn
+# --
+setShadeOn(${1:\$shade_on})$0

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setLimitOffset
+# key : setLimitOffset
+# --
+setLimitOffset( ${1:\$limit}, ${2:\$offset} )$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setLimitOffset
+# key : setLimitOffset
+# --
+setLimitOffset(${1:\$limit}, ${2:\$offset = 0})$0

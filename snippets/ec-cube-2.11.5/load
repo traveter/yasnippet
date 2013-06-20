@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :load
+# key : load
+# --
+load(${1:&\$lcpage})$0

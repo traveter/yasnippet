@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setGroup
+# key : setGroup
+# --
+setGroup( ${1:\$group} )$0

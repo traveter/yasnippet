@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetFile
+# key : lfSetFile
+# --
+lfSetFile(${1:\$objUpFile},${2:\$arrProduct},${3:&\$arrFile})$0

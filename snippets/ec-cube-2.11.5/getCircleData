@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCircleData
+# key : getCircleData
+# --
+getCircleData(${1:\$array})$0

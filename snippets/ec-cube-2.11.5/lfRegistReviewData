@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistReviewData
+# key : lfRegistReviewData
+# --
+lfRegistReviewData(${1:\$review_id}, ${2:&\$objFormParam})$0

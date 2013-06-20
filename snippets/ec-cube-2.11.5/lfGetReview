@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetReview
+# key : lfGetReview
+# --
+lfGetReview(${1:\$arrForm}, ${2:\$where}, ${3:\$arrval})$0

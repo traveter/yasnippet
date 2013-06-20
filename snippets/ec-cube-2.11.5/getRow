@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getRow
+# key : getRow
+# --
+getRow(${1:\$col}, ${2:\$table}, ${3:\$where = ""}, ${4:\$arrWhereVal = array()}, ${5:\$fetchmode = MDB2_FETCHMODE_ASSOC})$0

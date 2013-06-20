@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getOrder
+# key : getOrder
+# --
+getOrder(${1:\$order_id}, ${2:\$customer_id = null})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetOrderHistory
+# key : lfGetOrderHistory
+# --
+lfGetOrderHistory(${1:\$customer_id}, ${2:\$startno = -1})$0

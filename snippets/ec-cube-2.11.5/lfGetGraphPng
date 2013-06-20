@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetGraphPng
+# key : lfGetGraphPng
+# --
+lfGetGraphPng(${1:\$keyname})$0

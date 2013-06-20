@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setOrder
+# key : setOrder
+# --
+setOrder(${1:\$order})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setOrder
+# key : setOrder
+# --
+setOrder(${1:\$str})$0

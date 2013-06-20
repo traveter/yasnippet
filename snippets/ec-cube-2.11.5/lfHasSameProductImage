@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfHasSameProductImage
+# key : lfHasSameProductImage
+# --
+lfHasSameProductImage(${1:\$product_id}, ${2:\$arrImageKey}, ${3:\$image_file_name})$0

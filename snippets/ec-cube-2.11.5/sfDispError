@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfDispError
+# key : sfDispError
+# --
+sfDispError(${1:\$type})$0

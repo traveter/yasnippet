@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDownloadCsv
+# key : lfDownloadCsv
+# --
+lfDownloadCsv(${1:\$arrData}, ${2:\$prefix = ""})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetSelected
+# key : lfGetSelected
+# --
+lfGetSelected(${1:\$csv_id})$0

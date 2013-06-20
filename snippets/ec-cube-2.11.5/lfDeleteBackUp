@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDeleteBackUp
+# key : lfDeleteBackUp
+# --
+lfDeleteBackUp(${1:&\$arrForm}, ${2:\$bkup_dir}, ${3:\$bkup_ext})$0

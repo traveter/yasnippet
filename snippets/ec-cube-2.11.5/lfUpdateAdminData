@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdateAdminData
+# key : lfUpdateAdminData
+# --
+lfUpdateAdminData(${1:&\$arrForm})$0

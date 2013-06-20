@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUninstall
+# key : lfUninstall
+# --
+lfUninstall(${1:\$path})$0

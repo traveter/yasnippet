@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :SetSession
+# key : SetSession
+# --
+SetSession(${1:\$key}, ${2:\$val})$0

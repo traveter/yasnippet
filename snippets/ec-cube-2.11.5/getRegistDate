@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getRegistDate
+# key : getRegistDate
+# --
+getRegistDate(${1:\$arrPost})$0

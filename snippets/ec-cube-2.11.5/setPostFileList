@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setPostFileList
+# key : setPostFileList
+# --
+setPostFileList(${1:\$arrPost},${2:\$arrVal})$0

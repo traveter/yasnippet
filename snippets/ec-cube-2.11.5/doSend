@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doSend
+# key : doSend
+# --
+doSend(${1:&\$objFormParam})$0

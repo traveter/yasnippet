@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetCartData
+# key : lfGetCartData
+# --
+lfGetCartData(${1:\$objCart}, ${2:\$arrInfo}, ${3:\$cartKeys})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetCartData
+# key : lfGetCartData
+# --
+lfGetCartData(${1:&\$objCart})$0

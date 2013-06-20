@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getAnchorHash
+# key : getAnchorHash
+# --
+getAnchorHash(${1:\$anchor_key})$0

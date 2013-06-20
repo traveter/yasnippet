@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfDispException
+# key : sfDispException
+# --
+sfDispException(${1:\$debugMsg = null})$0

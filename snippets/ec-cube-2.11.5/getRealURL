@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getRealURL
+# key : getRealURL
+# --
+getRealURL(${1:\$url})$0

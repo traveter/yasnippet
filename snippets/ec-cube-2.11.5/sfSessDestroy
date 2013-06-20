@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSessDestroy
+# key : sfSessDestroy
+# --
+sfSessDestroy(${1:\$id})$0

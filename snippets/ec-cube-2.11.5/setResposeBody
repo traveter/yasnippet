@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setResposeBody
+# key : setResposeBody
+# --
+setResposeBody(${1:\$body})$0

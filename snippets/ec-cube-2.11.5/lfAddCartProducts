@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfAddCartProducts
+# key : lfAddCartProducts
+# --
+lfAddCartProducts(${1:\$arrOrderDetail})$0

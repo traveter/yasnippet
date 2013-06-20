@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setWhereByOR
+# key : setWhereByOR
+# --
+setWhereByOR( ${1:\$arrWhere} )$0

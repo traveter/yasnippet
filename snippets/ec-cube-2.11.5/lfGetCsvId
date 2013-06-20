@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetCsvId
+# key : lfGetCsvId
+# --
+lfGetCsvId(${1:\$subno_csv})$0

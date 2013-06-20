@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :buildQuery
+# key : buildQuery
+# --
+buildQuery(${1:\$key}, ${2:&\$where}, ${3:&\$arrValues}, ${4:&\$objFormParam})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :buildQuery
+# key : buildQuery
+# --
+buildQuery(${1:\$key}, ${2:&\$where}, ${3:&\$arrValues}, ${4:&\$objFormParam}, ${5:&\$objDb})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :addSearchStr
+# key : addSearchStr
+# --
+addSearchStr(${1:\$val})$0

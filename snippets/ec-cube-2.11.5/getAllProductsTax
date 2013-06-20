@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getAllProductsTax
+# key : getAllProductsTax
+# --
+getAllProductsTax(${1:\$productTypeId})$0

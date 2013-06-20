@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCommaList
+# key : sfGetCommaList
+# --
+sfGetCommaList(${1:\$array}, ${2:\$space=true}, ${3:\$arrPop = array()})$0

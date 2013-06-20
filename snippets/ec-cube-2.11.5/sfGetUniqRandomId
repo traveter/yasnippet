@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetUniqRandomId
+# key : sfGetUniqRandomId
+# --
+sfGetUniqRandomId(${1:\$head = ""})$0

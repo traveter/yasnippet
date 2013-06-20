@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :renumberRank
+# key : renumberRank
+# --
+renumberRank(${1:&\$objQuery}, ${2:\$id})$0

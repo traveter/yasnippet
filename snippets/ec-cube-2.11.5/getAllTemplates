@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getAllTemplates
+# key : getAllTemplates
+# --
+getAllTemplates(${1:\$device_type_id})$0

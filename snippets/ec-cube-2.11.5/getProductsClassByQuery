@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getProductsClassByQuery
+# key : getProductsClassByQuery
+# --
+getProductsClassByQuery(${1:&\$objQuery}, ${2:\$params})$0

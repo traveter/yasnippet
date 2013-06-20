@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setDevice
+# key : setDevice
+# --
+setDevice(${1:\$device = DEVICE_TYPE_PC})$0

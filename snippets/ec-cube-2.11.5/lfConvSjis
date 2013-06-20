@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfConvSjis
+# key : lfConvSjis
+# --
+lfConvSjis(${1:\$conv_str})$0

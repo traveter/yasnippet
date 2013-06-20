@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :searchInstallerPath
+# key : searchInstallerPath
+# --
+searchInstallerPath(${1:\$path})$0

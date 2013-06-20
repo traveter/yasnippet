@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getModulePath
+# key : getModulePath
+# --
+getModulePath(${1:\$order_id})$0

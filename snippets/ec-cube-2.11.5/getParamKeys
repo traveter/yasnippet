@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getParamKeys
+# key : getParamKeys
+# --
+getParamKeys(${1:&\$masterData})$0

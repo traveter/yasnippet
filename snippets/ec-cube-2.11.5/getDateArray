@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getDateArray
+# key : getDateArray
+# --
+getDateArray(${1:\$start_day}, ${2:\$end_day})$0

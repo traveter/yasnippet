@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :concatColumn
+# key : concatColumn
+# --
+concatColumn(${1:\$columns})$0

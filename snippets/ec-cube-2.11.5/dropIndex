@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :dropIndex
+# key : dropIndex
+# --
+dropIndex(${1:\$table}, ${2:\$name})$0

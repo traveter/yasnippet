@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :assignobj
+# key : assignobj
+# --
+assignobj(${1:\$obj})$0

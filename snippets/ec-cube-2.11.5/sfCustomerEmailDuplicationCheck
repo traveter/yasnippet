@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCustomerEmailDuplicationCheck
+# key : sfCustomerEmailDuplicationCheck
+# --
+sfCustomerEmailDuplicationCheck(${1:\$customer_id}, ${2:\$email})$0

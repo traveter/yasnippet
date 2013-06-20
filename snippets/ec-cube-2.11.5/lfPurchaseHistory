@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfPurchaseHistory
+# key : lfPurchaseHistory
+# --
+lfPurchaseHistory(${1:\$customer_id}, ${2:\$pageno = 0})$0

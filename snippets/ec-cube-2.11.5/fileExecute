@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :fileExecute
+# key : fileExecute
+# --
+fileExecute(${1:\$productCode})$0

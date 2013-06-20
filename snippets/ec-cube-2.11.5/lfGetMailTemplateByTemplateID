@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetMailTemplateByTemplateID
+# key : lfGetMailTemplateByTemplateID
+# --
+lfGetMailTemplateByTemplateID(${1:\$template_id})$0

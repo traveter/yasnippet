@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCutString
+# key : sfCutString
+# --
+sfCutString(${1:\$str}, ${2:\$len}, ${3:\$byte = true}, ${4:\$commadisp = true})$0

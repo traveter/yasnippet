@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doLogin
+# key : doLogin
+# --
+doLogin(${1:&\$objCustomer}, ${2:\$login_email}, ${3:\$login_pass})$0

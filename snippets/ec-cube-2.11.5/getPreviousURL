@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getPreviousURL
+# key : getPreviousURL
+# --
+getPreviousURL(${1:\$is_login = false}, ${2:\$product_type_id}, ${3:\$is_multiple})$0

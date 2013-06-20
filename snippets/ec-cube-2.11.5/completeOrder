@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :completeOrder
+# key : completeOrder
+# --
+completeOrder(${1:\$orderStatus = ORDER_NEW})$0

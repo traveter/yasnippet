@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doValidToken
+# key : doValidToken
+# --
+doValidToken(${1:\$is_admin = false})$0

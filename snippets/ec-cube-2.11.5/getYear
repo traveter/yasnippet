@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getYear
+# key : getYear
+# --
+getYear(${1:\$year = ''}, ${2:\$default_year = false}, ${3:\$default_key = '----'})$0

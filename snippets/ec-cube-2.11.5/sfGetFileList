@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetFileList
+# key : sfGetFileList
+# --
+sfGetFileList(${1:\$dir})$0

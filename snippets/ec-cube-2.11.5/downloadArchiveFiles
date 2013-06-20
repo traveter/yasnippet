@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :downloadArchiveFiles
+# key : downloadArchiveFiles
+# --
+downloadArchiveFiles(${1:\$dir}, ${2:\$template_code})$0

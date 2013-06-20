@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSaveMailHistory
+# key : sfSaveMailHistory
+# --
+sfSaveMailHistory(${1:\$order_id}, ${2:\$template_id}, ${3:\$subject}, ${4:\$body})$0

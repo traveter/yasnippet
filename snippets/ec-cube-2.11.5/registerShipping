@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerShipping
+# key : registerShipping
+# --
+registerShipping(${1:\$order_id}, ${2:\$arrParams}, ${3:\$convert_shipping_date = true})$0

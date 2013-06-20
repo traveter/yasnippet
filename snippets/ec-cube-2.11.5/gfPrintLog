@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfPrintLog
+# key : gfPrintLog
+# --
+gfPrintLog(${1:\$mess}, ${2:\$path = ''})$0

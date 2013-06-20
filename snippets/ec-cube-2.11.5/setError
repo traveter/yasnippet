@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setError
+# key : setError
+# --
+setError(${1:\$errCode})$0

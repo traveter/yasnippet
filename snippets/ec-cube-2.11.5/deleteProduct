@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :deleteProduct
+# key : deleteProduct
+# --
+deleteProduct(${1:\$arrPost})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :findOrders
+# key : findOrders
+# --
+findOrders(${1:\$where}, ${2:\$arrValues}, ${3:\$limit}, ${4:\$offset}, ${5:\$order})$0

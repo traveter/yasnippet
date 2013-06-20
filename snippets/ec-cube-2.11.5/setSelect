@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setSelect
+# key : setSelect
+# --
+setSelect(${1:\$sql})$0

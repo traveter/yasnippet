@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :count
+# key : count
+# --
+count(${1:\$table}, ${2:\$where = ""}, ${3:\$arrWhereVal = array()})$0

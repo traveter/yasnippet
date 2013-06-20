@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :preProcess
+# key : preProcess
+# --
+preProcess(${1:&\$lcpage})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isBlank
+# key : isBlank
+# --
+isBlank(${1:\$val}, ${2:\$greedy = true})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getAnchorKey
+# key : getAnchorKey
+# --
+getAnchorKey(${1:&\$objFormParam})$0

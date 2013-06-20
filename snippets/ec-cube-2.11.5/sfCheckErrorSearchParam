@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCheckErrorSearchParam
+# key : sfCheckErrorSearchParam
+# --
+sfCheckErrorSearchParam(${1:&\$objFormParam})$0

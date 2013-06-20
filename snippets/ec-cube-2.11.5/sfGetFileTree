@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetFileTree
+# key : sfGetFileTree
+# --
+sfGetFileTree(${1:\$dir}, ${2:\$tree_status})$0

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistProduct
+# key : lfRegistProduct
+# --
+lfRegistProduct(${1:\$objQuery}, ${2:\$line = ""}, ${3:&\$objFormParam})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistProduct
+# key : lfRegistProduct
+# --
+lfRegistProduct(${1:&\$objUpFile}, ${2:&\$objDownFile}, ${3:\$arrList})$0

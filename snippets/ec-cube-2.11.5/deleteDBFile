@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :deleteDBFile
+# key : deleteDBFile
+# --
+deleteDBFile(${1:\$arrVal})$0

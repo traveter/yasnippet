@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :mbConvertKanaWithArray
+# key : mbConvertKanaWithArray
+# --
+mbConvertKanaWithArray(${1:\$array}, ${2:\$arrConvList})$0

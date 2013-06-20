@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :createWhere
+# key : createWhere
+# --
+createWhere(${1:&\$objFormParam},${2:&\$objDb})$0

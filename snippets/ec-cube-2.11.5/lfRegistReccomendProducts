@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistReccomendProducts
+# key : lfRegistReccomendProducts
+# --
+lfRegistReccomendProducts(${1:\$objQuery}, ${2:\$arrList}, ${3:\$product_id})$0

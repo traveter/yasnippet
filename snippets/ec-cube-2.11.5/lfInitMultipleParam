@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitMultipleParam
+# key : lfInitMultipleParam
+# --
+lfInitMultipleParam(${1:&\$objFormParam})$0

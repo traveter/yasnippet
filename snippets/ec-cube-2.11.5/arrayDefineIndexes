@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :arrayDefineIndexes
+# key : arrayDefineIndexes
+# --
+arrayDefineIndexes(${1:\$array}, ${2:\$defineIndexes})$0

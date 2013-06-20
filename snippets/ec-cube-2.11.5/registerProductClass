@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerProductClass
+# key : registerProductClass
+# --
+registerProductClass(${1:\$arrList}, ${2:\$product_id}, ${3:\$total})$0

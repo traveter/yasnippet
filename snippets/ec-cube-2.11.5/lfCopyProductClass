@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCopyProductClass
+# key : lfCopyProductClass
+# --
+lfCopyProductClass(${1:\$arrList}, ${2:&\$objQuery})$0

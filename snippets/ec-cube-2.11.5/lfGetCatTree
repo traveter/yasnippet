@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetCatTree
+# key : lfGetCatTree
+# --
+lfGetCatTree(${1:\$arrParentCategoryId}, ${2:\$count_check = false})$0

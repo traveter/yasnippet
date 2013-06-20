@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :hasSubProductData
+# key : hasSubProductData
+# --
+hasSubProductData(${1:\$arrSubProductData})$0

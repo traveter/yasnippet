@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetProductsAllclass
+# key : lfGetProductsAllclass
+# --
+lfGetProductsAllclass(${1:&\$objQuery})$0

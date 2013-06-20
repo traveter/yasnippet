@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :rollbackOrder
+# key : rollbackOrder
+# --
+rollbackOrder(${1:\$order_id}, ${2:\$orderStatus = ORDER_CANCEL}, ${3:\$is_delete = false})$0

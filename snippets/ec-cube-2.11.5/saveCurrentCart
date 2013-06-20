@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :saveCurrentCart
+# key : saveCurrentCart
+# --
+saveCurrentCart(${1:\$key_tmp}, ${2:\$productTypeId})$0

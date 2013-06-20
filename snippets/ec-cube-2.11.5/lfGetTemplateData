@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetTemplateData
+# key : lfGetTemplateData
+# --
+lfGetTemplateData(${1:&\$objFormParam}, ${2:\$template_id})$0

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfTax
+# key : sfTax
+# --
+sfTax(${1:\$price})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfTax
+# key : sfTax
+# --
+sfTax(${1:\$price}, ${2:\$tax}, ${3:\$tax_rule})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetClassCombination
+# key : lfGetClassCombination
+# --
+lfGetClassCombination(${1:\$arrData}, ${2:\$is_parent = false})$0

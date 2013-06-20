@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfDeleteDir
+# key : sfDeleteDir
+# --
+sfDeleteDir(${1:\$dir})$0

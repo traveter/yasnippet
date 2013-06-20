@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getProductName
+# key : getProductName
+# --
+getProductName(${1:\$product_id})$0

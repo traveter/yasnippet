@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfAddSessionId
+# key : gfAddSessionId
+# --
+gfAddSessionId(${1:\$url = null})$0

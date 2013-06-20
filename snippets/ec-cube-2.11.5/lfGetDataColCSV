@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetDataColCSV
+# key : lfGetDataColCSV
+# --
+lfGetDataColCSV(${1:\$arrData}, ${2:\$arrDataCol})$0

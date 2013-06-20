@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfText
+# key : lfText
+# --
+lfText(${1:\$x}, ${2:\$y}, ${3:\$text}, ${4:\$size = 0}, ${5:\$style = ''})$0

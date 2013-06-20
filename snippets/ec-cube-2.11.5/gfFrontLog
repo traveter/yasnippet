@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfFrontLog
+# key : gfFrontLog
+# --
+gfFrontLog(${1:\$mess}, ${2:\$log_level='Info'})$0

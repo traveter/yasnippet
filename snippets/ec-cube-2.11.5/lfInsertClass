@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInsertClass
+# key : lfInsertClass
+# --
+lfInsertClass(${1:\$arrData}, ${2:\$member_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInsertClass
+# key : lfInsertClass
+# --
+lfInsertClass(${1:\$arrForm})$0

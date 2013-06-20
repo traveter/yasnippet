@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :addFile
+# key : addFile
+# --
+addFile(${1:\$disp_name}, ${2:\$keyname}, ${3:\$arrExt}, ${4:\$size}, ${5:\$necessary=false}, ${6:\$width=0}, ${7:\$height=0}, ${8:\$image=true})$0

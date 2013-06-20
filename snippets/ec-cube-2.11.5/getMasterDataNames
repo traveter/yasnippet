@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMasterDataNames
+# key : getMasterDataNames
+# --
+getMasterDataNames(${1:\$ignores = array()})$0

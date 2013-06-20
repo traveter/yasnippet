@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetEnabled
+# key : sfGetEnabled
+# --
+sfGetEnabled(${1:\$val})$0

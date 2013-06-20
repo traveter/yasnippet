@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setHeader
+# key : setHeader
+# --
+setHeader(${1:\$headers})$0

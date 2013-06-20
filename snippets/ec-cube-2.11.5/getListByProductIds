@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getListByProductIds
+# key : getListByProductIds
+# --
+getListByProductIds(${1:&\$objQuery}, ${2:\$arrProductId = array()})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setShipmentItemTemp
+# key : setShipmentItemTemp
+# --
+setShipmentItemTemp(${1:\$shipping_id}, ${2:\$product_class_id}, ${3:\$quantity})$0

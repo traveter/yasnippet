@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckOutputError
+# key : lfCheckOutputError
+# --
+lfCheckOutputError(${1:&\$objFormParam})$0

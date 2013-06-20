@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCSVRecordCount
+# key : sfGetCSVRecordCount
+# --
+sfGetCSVRecordCount(${1:\$fp})$0

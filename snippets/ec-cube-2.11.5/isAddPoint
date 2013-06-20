@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isAddPoint
+# key : isAddPoint
+# --
+isAddPoint(${1:\$status})$0

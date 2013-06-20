@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfMakeSelectMobile
+# key : lfMakeSelectMobile
+# --
+lfMakeSelectMobile(${1:&\$objPage}, ${2:\$product_id},${3:\$request_classcategory_id1})$0

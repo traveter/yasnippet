@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setData
+# key : setData
+# --
+setData(${1:\$arrData})$0

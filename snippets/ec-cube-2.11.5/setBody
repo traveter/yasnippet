@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setBody
+# key : setBody
+# --
+setBody(${1:\$body})$0

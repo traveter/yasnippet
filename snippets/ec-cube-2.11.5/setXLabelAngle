@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setXLabelAngle
+# key : setXLabelAngle
+# --
+setXLabelAngle(${1:\$Angle})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :toLower
+# key : toLower
+# --
+toLower(${1:\$key})$0

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :drawLabel
+# key : drawLabel
+# --
+drawLabel(${1:\$arrRad})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :drawLabel
+# key : drawLabel
+# --
+drawLabel(${1:\$line_no})$0

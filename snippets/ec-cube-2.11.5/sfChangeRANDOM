@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfChangeRANDOM
+# key : sfChangeRANDOM
+# --
+sfChangeRANDOM(${1:\$sql})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMakeHiddenArray
+# key : sfMakeHiddenArray
+# --
+sfMakeHiddenArray(${1:\$arrSrc}, ${2:\$arrDst = array()}, ${3:\$parent_key = ""})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setTplOnLoad
+# key : setTplOnLoad
+# --
+setTplOnLoad(${1:\$tpl_onload})$0

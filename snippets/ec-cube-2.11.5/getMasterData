@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMasterData
+# key : getMasterData
+# --
+getMasterData(${1:\$key})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getMasterData
+# key : getMasterData
+# --
+getMasterData(${1:\$name}, ${2:\$columns = array()})$0

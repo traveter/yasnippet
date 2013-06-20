@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetAutoInc
+# key : lfSetAutoInc
+# --
+lfSetAutoInc(${1:&\$objQuery}, ${2:\$csv})$0

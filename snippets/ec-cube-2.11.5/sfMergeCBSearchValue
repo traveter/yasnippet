@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMergeCBSearchValue
+# key : sfMergeCBSearchValue
+# --
+sfMergeCBSearchValue(${1:\$keyname}, ${2:\$max})$0

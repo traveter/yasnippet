@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDeleteProduct
+# key : doDeleteProduct
+# --
+doDeleteProduct(${1:\$delete_no}, ${2:&\$objFormParam})$0

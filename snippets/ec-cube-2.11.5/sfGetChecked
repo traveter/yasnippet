@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetChecked
+# key : sfGetChecked
+# --
+sfGetChecked(${1:\$param}, ${2:\$value})$0

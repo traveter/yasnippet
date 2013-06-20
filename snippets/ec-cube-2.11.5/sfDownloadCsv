@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfDownloadCsv
+# key : sfDownloadCsv
+# --
+sfDownloadCsv(${1:\$csv_id}, ${2:\$where = ""}, ${3:\$arrVal = array()}, ${4:\$order = ""}, ${5:\$is_download = false})$0

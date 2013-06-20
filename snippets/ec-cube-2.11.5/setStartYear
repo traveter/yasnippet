@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setStartYear
+# key : setStartYear
+# --
+setStartYear(${1:\$year})$0

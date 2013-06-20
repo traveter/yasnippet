@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getOne
+# key : getOne
+# --
+getOne(${1:\$sql}, ${2:\$arrval = array()})$0

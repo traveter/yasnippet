@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfIsFileOpen
+# key : lfIsFileOpen
+# --
+lfIsFileOpen(${1:\$dir}, ${2:\$tree_status})$0

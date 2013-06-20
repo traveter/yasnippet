@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetHidden
+# key : lfSetHidden
+# --
+lfSetHidden(${1:\$arrForm})$0

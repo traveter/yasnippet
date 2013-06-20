@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetMailQuery
+# key : lfGetMailQuery
+# --
+lfGetMailQuery(${1:\$send_id})$0

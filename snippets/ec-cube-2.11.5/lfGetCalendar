@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetCalendar
+# key : lfGetCalendar
+# --
+lfGetCalendar(${1:\$disp_month = 1})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfRankUp
+# key : sfRankUp
+# --
+sfRankUp(${1:\$table}, ${2:\$colname}, ${3:\$id}, ${4:\$andwhere = ""})$0

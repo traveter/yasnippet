@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetProductKeys
+# key : lfGetProductKeys
+# --
+lfGetProductKeys(${1:\$arrProduct})$0

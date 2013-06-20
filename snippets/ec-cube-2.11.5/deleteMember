@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :deleteMember
+# key : deleteMember
+# --
+deleteMember(${1:\$id})$0

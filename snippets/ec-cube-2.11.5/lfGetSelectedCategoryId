@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetSelectedCategoryId
+# key : lfGetSelectedCategoryId
+# --
+lfGetSelectedCategoryId(${1:\$arrRequest})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetSelectedCategoryId
+# key : lfGetSelectedCategoryId
+# --
+lfGetSelectedCategoryId(${1:\$product_id}, ${2:\$category_id})$0

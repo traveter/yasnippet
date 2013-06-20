@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :indexToCode
+# key : indexToCode
+# --
+indexToCode(${1:\$index})$0

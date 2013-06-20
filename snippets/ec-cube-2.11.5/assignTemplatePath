@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :assignTemplatePath
+# key : assignTemplatePath
+# --
+assignTemplatePath(${1:\$device_type_id})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :max
+# key : max
+# --
+max(${1:\$col}, ${2:\$table}, ${3:\$where = ""}, ${4:\$arrval = array()})$0

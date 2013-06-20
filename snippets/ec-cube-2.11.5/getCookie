@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCookie
+# key : getCookie
+# --
+getCookie(${1:\$key})$0

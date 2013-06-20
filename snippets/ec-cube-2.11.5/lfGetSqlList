@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetSqlList
+# key : lfGetSqlList
+# --
+lfGetSqlList(${1:\$where = ""} , ${2:\$arrVal = array()})$0

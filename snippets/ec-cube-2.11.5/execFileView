@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :execFileView
+# key : execFileView
+# --
+execFileView(${1:\$objFormParam})$0

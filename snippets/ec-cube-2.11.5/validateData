@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :validateData
+# key : validateData
+# --
+validateData(${1:&\$objFormParam}, ${2:&\$arrParams}, ${3:\$mode})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :registerSubData
+# key : registerSubData
+# --
+registerSubData(${1:\$data}, ${2:\$key = null})$0

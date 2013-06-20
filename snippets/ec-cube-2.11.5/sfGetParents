@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetParents
+# key : sfGetParents
+# --
+sfGetParents(${1:\$table}, ${2:\$pid_name}, ${3:\$id_name}, ${4:\$id})$0

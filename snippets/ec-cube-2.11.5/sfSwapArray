@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSwapArray
+# key : sfSwapArray
+# --
+sfSwapArray(${1:\$array}, ${2:\$isColumnName = true})$0

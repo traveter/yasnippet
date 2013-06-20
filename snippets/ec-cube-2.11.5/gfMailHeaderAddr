@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfMailHeaderAddr
+# key : gfMailHeaderAddr
+# --
+gfMailHeaderAddr(${1:\$str})$0

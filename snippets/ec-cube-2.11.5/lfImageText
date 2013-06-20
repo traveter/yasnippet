@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfImageText
+# key : lfImageText
+# --
+lfImageText(${1:\$dst_image}, ${2:\$text}, ${3:\$font_size}, ${4:\$left}, ${5:\$top}, ${6:\$font}, ${7:\$arrRGB})$0

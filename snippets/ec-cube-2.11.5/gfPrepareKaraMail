@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfPrepareKaraMail
+# key : gfPrepareKaraMail
+# --
+gfPrepareKaraMail(${1:\$next_url}, ${2:\$session_id = null})$0

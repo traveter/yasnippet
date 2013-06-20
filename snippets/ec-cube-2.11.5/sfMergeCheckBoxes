@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMergeCheckBoxes
+# key : sfMergeCheckBoxes
+# --
+sfMergeCheckBoxes(${1:\$array}, ${2:\$max})$0

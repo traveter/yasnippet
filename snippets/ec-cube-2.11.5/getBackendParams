@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getBackendParams
+# key : getBackendParams
+# --
+getBackendParams(${1:\$backend})$0

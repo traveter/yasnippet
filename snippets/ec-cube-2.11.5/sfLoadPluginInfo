@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfLoadPluginInfo
+# key : sfLoadPluginInfo
+# --
+sfLoadPluginInfo(${1:\$filenamePluginInfo})$0

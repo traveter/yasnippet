@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :fnNaviPage
+# key : fnNaviPage
+# --
+fnNaviPage(pageno)$0

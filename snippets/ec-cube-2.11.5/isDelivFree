@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isDelivFree
+# key : isDelivFree
+# --
+isDelivFree(${1:\$productTypeId})$0

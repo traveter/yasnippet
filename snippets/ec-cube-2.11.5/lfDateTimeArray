@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDateTimeArray
+# key : lfDateTimeArray
+# --
+lfDateTimeArray(${1:\$type}, ${2:\$st}, ${3:\$ed})$0

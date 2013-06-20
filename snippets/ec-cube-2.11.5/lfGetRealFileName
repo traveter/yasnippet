@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetRealFileName
+# key : lfGetRealFileName
+# --
+lfGetRealFileName(${1:\$customer_id}, ${2:\$order_id}, ${3:\$product_id}, ${4:\$product_class_id})$0

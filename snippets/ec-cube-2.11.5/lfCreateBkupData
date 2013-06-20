@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCreateBkupData
+# key : lfCreateBkupData
+# --
+lfCreateBkupData(${1:\$bkup_name}, ${2:\$bkup_dir})$0

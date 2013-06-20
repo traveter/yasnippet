@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getBlocPositions
+# key : getBlocPositions
+# --
+getBlocPositions(${1:\$device_type_id}, ${2:\$page_id}, ${3:\$has_realpath = true})$0

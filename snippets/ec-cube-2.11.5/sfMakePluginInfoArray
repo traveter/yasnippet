@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMakePluginInfoArray
+# key : sfMakePluginInfoArray
+# --
+sfMakePluginInfoArray(${1:\$file})$0

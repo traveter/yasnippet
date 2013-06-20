@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setRecip
+# key : setRecip
+# --
+setRecip(${1:\$key}, ${2:\$recipient})$0

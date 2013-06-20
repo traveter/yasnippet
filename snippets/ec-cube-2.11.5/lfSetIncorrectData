@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetIncorrectData
+# key : lfSetIncorrectData
+# --
+lfSetIncorrectData(${1:\$error_login_id})$0

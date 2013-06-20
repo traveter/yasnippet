@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfRegisterKaraMail
+# key : gfRegisterKaraMail
+# --
+gfRegisterKaraMail(${1:\$token}, ${2:\$email})$0

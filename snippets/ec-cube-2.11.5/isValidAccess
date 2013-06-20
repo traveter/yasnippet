@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isValidAccess
+# key : isValidAccess
+# --
+isValidAccess(${1:\$mode})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfNoImageMain
+# key : sfNoImageMain
+# --
+sfNoImageMain(${1:\$filename = ''})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInsert
+# key : lfInsert
+# --
+lfInsert(${1:&\$arrForm})$0

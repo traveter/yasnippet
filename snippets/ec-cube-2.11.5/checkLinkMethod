@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :checkLinkMethod
+# key : checkLinkMethod
+# --
+checkLinkMethod(${1:\$link_method})$0

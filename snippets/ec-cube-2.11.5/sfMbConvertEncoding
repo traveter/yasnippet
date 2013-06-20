@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMbConvertEncoding
+# key : sfMbConvertEncoding
+# --
+sfMbConvertEncoding(${1:\$str}, ${2:\$encode = 'CHAR_CODE'})$0

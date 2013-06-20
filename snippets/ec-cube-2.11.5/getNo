@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getNo
+# key : getNo
+# --
+getNo(${1:\$globalParams})$0

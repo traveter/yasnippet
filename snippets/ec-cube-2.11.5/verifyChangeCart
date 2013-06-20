@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :verifyChangeCart
+# key : verifyChangeCart
+# --
+verifyChangeCart(${1:\$uniqId}, ${2:&\$objCartSession})$0

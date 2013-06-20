@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :handler
+# key : handler
+# --
+handler(${1:\$buffer})$0

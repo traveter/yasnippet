@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :debug
+# key : debug
+# --
+debug(${1:\$var = true})$0

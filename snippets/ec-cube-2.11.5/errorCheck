@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :errorCheck
+# key : errorCheck
+# --
+errorCheck(${1:&\$arrKeys}, ${2:&\$arrForm})$0

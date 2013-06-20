@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckForgotMail
+# key : lfCheckForgotMail
+# --
+lfCheckForgotMail(${1:&\$arrForm}, ${2:&\$arrReminder})$0

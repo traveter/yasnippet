@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCreateFile
+# key : sfCreateFile
+# --
+sfCreateFile(${1:\$file}, ${2:\$mode = ""})$0

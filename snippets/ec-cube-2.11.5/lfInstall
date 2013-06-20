@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInstall
+# key : lfInstall
+# --
+lfInstall(${1:\$path})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doUploadCsv
+# key : doUploadCsv
+# --
+doUploadCsv(${1:&\$objFormParam}, ${2:&\$objUpFile})$0

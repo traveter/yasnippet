@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetDefaultCsvOutput
+# key : lfSetDefaultCsvOutput
+# --
+lfSetDefaultCsvOutput(${1:\$csv_id})$0

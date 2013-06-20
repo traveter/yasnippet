@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfStatusDisp
+# key : lfStatusDisp
+# --
+lfStatusDisp(${1:\$status},${2:\$pageno})$0

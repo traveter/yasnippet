@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDelPageData
+# key : lfDelPageData
+# --
+lfDelPageData(${1:\$page_id}, ${2:\$device_type_id = DEVICE_TYPE_PC})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getCustomerDataFromMobilePhoneIdPass
+# key : getCustomerDataFromMobilePhoneIdPass
+# --
+getCustomerDataFromMobilePhoneIdPass(${1:\$pass})$0

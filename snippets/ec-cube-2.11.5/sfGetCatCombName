@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCatCombName
+# key : sfGetCatCombName
+# --
+sfGetCatCombName(${1:\$category_id})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfBacktraceToString
+# key : sfBacktraceToString
+# --
+sfBacktraceToString(${1:\$arrBacktrace})$0

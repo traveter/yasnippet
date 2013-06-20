@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfArrCombine
+# key : sfArrCombine
+# --
+sfArrCombine(${1:\$arrKeys}, ${2:\$arrValues})$0

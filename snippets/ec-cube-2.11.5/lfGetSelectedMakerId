@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetSelectedMakerId
+# key : lfGetSelectedMakerId
+# --
+lfGetSelectedMakerId(${1:\$product_id}, ${2:\$maker_id})$0

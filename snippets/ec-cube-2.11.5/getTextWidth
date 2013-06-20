@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTextWidth
+# key : getTextWidth
+# --
+getTextWidth(${1:\$text}, ${2:\$font_size})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getQueryDefsFields
+# key : getQueryDefsFields
+# --
+getQueryDefsFields(${1:\$n} ,${2:\$arr = array()}, ${3:\$ignore_err = false}, ${4:\$types = null}, ${5:\$result_types = MDB2_PREPARE_RESULT} )$0

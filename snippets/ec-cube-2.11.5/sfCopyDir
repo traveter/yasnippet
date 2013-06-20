@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfCopyDir
+# key : sfCopyDir
+# --
+sfCopyDir(${1:\$src}, ${2:\$des}, ${3:\$mess = ""}, ${4:\$override = false})$0

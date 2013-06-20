@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :orWhere
+# key : orWhere
+# --
+orWhere(${1:\$str})$0

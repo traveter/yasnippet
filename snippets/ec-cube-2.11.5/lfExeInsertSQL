@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfExeInsertSQL
+# key : lfExeInsertSQL
+# --
+lfExeInsertSQL(${1:&\$objQuery}, ${2:\$csv}, ${3:\$mode})$0

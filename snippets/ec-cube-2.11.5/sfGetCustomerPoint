@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetCustomerPoint
+# key : sfGetCustomerPoint
+# --
+sfGetCustomerPoint(${1:\$order_id}, ${2:\$use_point}, ${3:\$add_point})$0

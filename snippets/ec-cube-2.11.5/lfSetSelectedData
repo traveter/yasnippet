@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSetSelectedData
+# key : lfSetSelectedData
+# --
+lfSetSelectedData(${1:&\$arrProducts}, ${2:\$arrForm}, ${3:\$arrErr}, ${4:\$product_id})$0

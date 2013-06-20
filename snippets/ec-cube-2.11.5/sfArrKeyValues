@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfArrKeyValues
+# key : sfArrKeyValues
+# --
+sfArrKeyValues(${1:\$arrList}, ${2:\$keyname}, ${3:\$valname}, ${4:\$len_max = ""}, ${5:\$keysize = ""}, ${6:\$connect = ""})$0

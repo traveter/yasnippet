@@ -1,0 +1,48 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistData
+# key : lfRegistData
+# --
+lfRegistData( ${1:&\$objFormParam}, ${2:\$template_id = null} )$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistData
+# key : lfRegistData
+# --
+lfRegistData(${1:\$array})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistData
+# key : lfRegistData
+# --
+lfRegistData(${1:\$arrRet}, ${2:\$member_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistData
+# key : lfRegistData
+# --
+lfRegistData(${1:\$objFormParam}, ${2:\$customer_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistData
+# key : lfRegistData
+# --
+lfRegistData(${1:\$payment_id = ""}, ${2:\$member_id}, ${3:&\$objFormParam})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistData
+# key : lfRegistData
+# --
+lfRegistData(${1:\$plugin_dir}, ${2:\$plugin_code})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistData
+# key : lfRegistData
+# --
+lfRegistData(${1:\$uniqid}, ${2:\$arrForm}, ${3:&\$objPurchase}, ${4:\$arrPayment})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistData
+# key : lfRegistData
+# --
+lfRegistData(${1:&\$objFormParam})$0

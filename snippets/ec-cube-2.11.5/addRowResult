@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :addRowResult
+# key : addRowResult
+# --
+addRowResult(${1:\$line_count}, ${2:\$message})$0

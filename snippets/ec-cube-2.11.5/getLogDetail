@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getLogDetail
+# key : getLogDetail
+# --
+getLogDetail(${1:\$log_id})$0

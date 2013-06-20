@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetIDName
+# key : lfGetIDName
+# --
+lfGetIDName(${1:\$arrCatKey}, ${2:\$arrCatVal})$0

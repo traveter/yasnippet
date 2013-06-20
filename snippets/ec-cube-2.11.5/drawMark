@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :drawMark
+# key : drawMark
+# --
+drawMark(${1:\$line_no})$0

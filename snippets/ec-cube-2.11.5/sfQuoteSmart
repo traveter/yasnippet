@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfQuoteSmart
+# key : sfQuoteSmart
+# --
+sfQuoteSmart(${1:\$in})$0

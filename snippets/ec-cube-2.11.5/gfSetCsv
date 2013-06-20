@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfSetCsv
+# key : gfSetCsv
+# --
+gfSetCsv( ${1:\$array}, ${2:\$arrayIndex = ""} )$0

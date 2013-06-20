@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckConfirmError
+# key : lfCheckConfirmError
+# --
+lfCheckConfirmError(${1:&\$objFormParam})$0

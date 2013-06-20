@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetMailTemplateList
+# key : lfGetMailTemplateList
+# --
+lfGetMailTemplateList(${1:\$arrTemplate})$0

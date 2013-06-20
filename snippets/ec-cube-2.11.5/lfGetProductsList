@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetProductsList
+# key : lfGetProductsList
+# --
+lfGetProductsList(${1:\$searchCondition}, ${2:\$disp_number}, ${3:\$startno}, ${4:\$linemax}, ${5:&\$objProduct})$0

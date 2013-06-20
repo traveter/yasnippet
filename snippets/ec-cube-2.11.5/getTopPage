@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getTopPage
+# key : getTopPage
+# --
+getTopPage(${1:\$arrPageList})$0

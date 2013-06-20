@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetReviewData
+# key : lfGetReviewData
+# --
+lfGetReviewData(${1:\$id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetReviewData
+# key : lfGetReviewData
+# --
+lfGetReviewData(${1:\$review_id})$0

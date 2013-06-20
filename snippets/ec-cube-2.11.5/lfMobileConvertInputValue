@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfMobileConvertInputValue
+# key : lfMobileConvertInputValue
+# --
+lfMobileConvertInputValue(${1:&\$value})$0

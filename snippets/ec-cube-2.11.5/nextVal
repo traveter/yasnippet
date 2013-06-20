@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :nextVal
+# key : nextVal
+# --
+nextVal(${1:\$seq_name})$0

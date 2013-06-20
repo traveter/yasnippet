@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :get
+# key : get
+# --
+get(${1:\$col}, ${2:\$table}, ${3:\$where = ""}, ${4:\$arrWhereVal = array()})$0

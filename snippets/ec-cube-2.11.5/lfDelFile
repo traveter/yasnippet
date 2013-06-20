@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDelFile
+# key : lfDelFile
+# --
+lfDelFile(${1:\$filename}, ${2:\$device_type_id})$0

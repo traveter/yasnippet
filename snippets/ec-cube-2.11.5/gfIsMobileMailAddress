@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfIsMobileMailAddress
+# key : gfIsMobileMailAddress
+# --
+gfIsMobileMailAddress(${1:\$address})$0

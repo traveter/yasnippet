@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setDBDate
+# key : setDBDate
+# --
+setDBDate(${1:\$db_date}, ${2:\$year_key = 'year'}, ${3:\$month_key = 'month'}, ${4:\$day_key = 'day'})$0

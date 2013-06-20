@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInsertRecommendProducts
+# key : lfInsertRecommendProducts
+# --
+lfInsertRecommendProducts(${1:&\$objQuery}, ${2:\$arrList}, ${3:\$product_id})$0

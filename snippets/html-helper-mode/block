@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: <!--{modifier}-->...<!--{/modifier}-->
+# key: smarty-bloc
+# --
+<!--{${1:$$(yas-choose-value '("if" "foreach" "section"))}$0}-->
+<!--{/$1}-->

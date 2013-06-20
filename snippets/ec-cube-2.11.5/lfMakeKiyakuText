@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfMakeKiyakuText
+# key : lfMakeKiyakuText
+# --
+lfMakeKiyakuText(${1:\$arrKiyaku}, ${2:\$max}, ${3:\$offset})$0

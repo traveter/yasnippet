@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetPageTitle
+# key : lfGetPageTitle
+# --
+lfGetPageTitle(${1:\$mode}, ${2:\$category_id = 0})$0

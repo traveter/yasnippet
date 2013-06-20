@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfCheckErrorUploadFile
+# key : lfCheckErrorUploadFile
+# --
+lfCheckErrorUploadFile(${1:\$plugin_code}, ${2:\$plugin_dir})$0

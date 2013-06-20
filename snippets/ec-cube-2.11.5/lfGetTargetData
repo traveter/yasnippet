@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetTargetData
+# key : lfGetTargetData
+# --
+lfGetTargetData(${1:&\$objFormParam})$0

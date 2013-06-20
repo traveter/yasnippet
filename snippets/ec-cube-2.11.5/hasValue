@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :hasValue
+# key : hasValue
+# --
+hasValue(${1:\$keyname})$0

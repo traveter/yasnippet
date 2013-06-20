@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :gfFinishKaraMail
+# key : gfFinishKaraMail
+# --
+gfFinishKaraMail(${1:\$token})$0

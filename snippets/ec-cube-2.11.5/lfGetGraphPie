@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetGraphPie
+# key : lfGetGraphPie
+# --
+lfGetGraphPie(${1:\$arrResults}, ${2:\$keyname}, ${3:\$type}, ${4:\$title = ""}, ${5:\$sdate = ""}, ${6:\$edate = ""})$0

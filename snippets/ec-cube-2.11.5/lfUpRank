@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpRank
+# key : lfUpRank
+# --
+lfUpRank(${1:\$class_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpRank
+# key : lfUpRank
+# --
+lfUpRank(${1:\$class_id}, ${2:\$classcategory_id})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setParamList
+# key : setParamList
+# --
+setParamList(${1:\$arrVal}, ${2:\$keyname})$0

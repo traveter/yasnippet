@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :traceError
+# key : traceError
+# --
+traceError(${1:\$error}, ${2:\$sql = ""}, ${3:\$arrVal = false})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegisterData
+# key : lfRegisterData
+# --
+lfRegisterData(${1:&\$objFormParam})$0

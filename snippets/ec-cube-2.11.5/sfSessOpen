@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSessOpen
+# key : sfSessOpen
+# --
+sfSessOpen(${1:\$save_path}, ${2:\$session_name})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfMoveRank
+# key : sfMoveRank
+# --
+sfMoveRank(${1:\$tableName}, ${2:\$keyIdColumn}, ${3:\$keyId}, ${4:\$pos}, ${5:\$where = ""})$0

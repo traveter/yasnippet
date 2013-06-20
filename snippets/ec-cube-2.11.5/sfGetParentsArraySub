@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetParentsArraySub
+# key : sfGetParentsArraySub
+# --
+sfGetParentsArraySub(${1:\$table}, ${2:\$pid_name}, ${3:\$id_name}, ${4:\$child})$0

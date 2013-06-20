@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :recursionConvParam
+# key : recursionConvParam
+# --
+recursionConvParam(${1:&\$value}, ${2:\$convert})$0

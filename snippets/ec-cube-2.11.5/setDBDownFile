@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setDBDownFile
+# key : setDBDownFile
+# --
+setDBDownFile(${1:\$arrVal})$0

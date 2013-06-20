@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :copyBloc
+# key : copyBloc
+# --
+copyBloc(${1:&\$arrDest}, ${2:\$arrFrom}, ${3:\$cnt})$0

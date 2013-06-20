@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfDeleteAll
+# key : lfDeleteAll
+# --
+lfDeleteAll(${1:&\$objQuery})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfInitFormParam
+# key : lfInitFormParam
+# --
+lfInitFormParam(${1:&\$objFormParam}, ${2:\$arrPost})$0

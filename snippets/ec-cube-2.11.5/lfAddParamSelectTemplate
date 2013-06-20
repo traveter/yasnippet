@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfAddParamSelectTemplate
+# key : lfAddParamSelectTemplate
+# --
+lfAddParamSelectTemplate(${1:&\$objFormParam})$0

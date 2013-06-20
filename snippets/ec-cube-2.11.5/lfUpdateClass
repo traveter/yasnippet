@@ -1,0 +1,18 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdateClass
+# key : lfUpdateClass
+# --
+lfUpdateClass(${1:\$arrData})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdateClass
+# key : lfUpdateClass
+# --
+lfUpdateClass(${1:\$arrData}, ${2:\$kiyaku_id})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUpdateClass
+# key : lfUpdateClass
+# --
+lfUpdateClass(${1:\$arrForm})$0

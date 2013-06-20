@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetDisplayNum
+# key : lfGetDisplayNum
+# --
+lfGetDisplayNum(${1:\$display_number})$0

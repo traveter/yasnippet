@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getEditablePage
+# key : getEditablePage
+# --
+getEditablePage(${1:\$arrPageList})$0

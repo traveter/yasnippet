@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetMultiCatTree
+# key : sfGetMultiCatTree
+# --
+sfGetMultiCatTree(${1:\$product_id}, ${2:\$count_check = false})$0

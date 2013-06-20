@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :addParam
+# key : addParam
+# --
+addParam(${1:\$disp_name}, ${2:\$keyname}, ${3:\$length = ""}, ${4:\$convert = ""}, ${5:\$arrCheck = array()}, ${6:\$default = ""}, ${7:\$input_db = 'true'})$0

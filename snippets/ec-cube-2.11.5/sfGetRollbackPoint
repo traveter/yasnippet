@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetRollbackPoint
+# key : sfGetRollbackPoint
+# --
+sfGetRollbackPoint(${1:\$order_id}, ${2:\$use_point}, ${3:\$add_point}, ${4:\$order_status})$0

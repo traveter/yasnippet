@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :saveShippingTemp
+# key : saveShippingTemp
+# --
+saveShippingTemp(${1:\$arrSrc}, ${2:\$shipping_id = 0})$0

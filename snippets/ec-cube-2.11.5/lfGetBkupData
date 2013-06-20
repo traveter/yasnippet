@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfGetBkupData
+# key : lfGetBkupData
+# --
+lfGetBkupData(${1:\$where = ""}, ${2:\$data = array()})$0

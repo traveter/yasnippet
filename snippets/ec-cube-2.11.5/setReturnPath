@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setReturnPath
+# key : setReturnPath
+# --
+setReturnPath(${1:\$return_path})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :isLoginSuccess
+# key : isLoginSuccess
+# --
+isLoginSuccess(${1:\$dont_check_email_mobile = false})$0

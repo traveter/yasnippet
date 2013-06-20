@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :existsBloc
+# key : existsBloc
+# --
+existsBloc(${1:\$arrBloc}, ${2:\$arrToBlocs})$0

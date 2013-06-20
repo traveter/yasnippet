@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfStatusMove
+# key : lfStatusMove
+# --
+lfStatusMove(${1:\$statusId}, ${2:\$arrOrderId})$0

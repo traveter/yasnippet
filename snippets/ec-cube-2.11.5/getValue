@@ -1,0 +1,24 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getValue
+# key : getValue
+# --
+getValue(${1:\$key})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getValue
+# key : getValue
+# --
+getValue(${1:\$key}, ${2:\$productTypeId})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getValue
+# key : getValue
+# --
+getValue(${1:\$keyname})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getValue
+# key : getValue
+# --
+getValue(${1:\$keyname}, ${2:\$default = ''})$0

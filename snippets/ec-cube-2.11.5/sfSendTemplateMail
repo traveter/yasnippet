@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfSendTemplateMail
+# key : sfSendTemplateMail
+# --
+sfSendTemplateMail(${1:\$to}, ${2:\$to_name}, ${3:\$template_id}, ${4:&\$objPage}, ${5:\$from_address = ""}, ${6:\$from_name = ""}, ${7:\$reply_to = ""}, ${8:\$bcc = ''})$0

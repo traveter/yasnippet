@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfGetLevelCatList
+# key : sfGetLevelCatList
+# --
+sfGetLevelCatList(${1:\$parent_zero = true})$0

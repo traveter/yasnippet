@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getLocation
+# key : getLocation
+# --
+getLocation(${1:\$path}, ${2:\$param = array()}, ${3:\$useSSL = 'escape'})$0

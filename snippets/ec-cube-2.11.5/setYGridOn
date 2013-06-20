@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setYGridOn
+# key : setYGridOn
+# --
+setYGridOn(${1:\$ygrid_on})$0

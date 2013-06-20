@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :fillCheckboxesValue
+# key : fillCheckboxesValue
+# --
+fillCheckboxesValue(${1:\$key}, ${2:\$size})$0

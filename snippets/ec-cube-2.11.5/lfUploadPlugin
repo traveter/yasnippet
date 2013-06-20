@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfUploadPlugin
+# key : lfUploadPlugin
+# --
+lfUploadPlugin(${1:&\$objUpFile}, ${2:\$plugin_dir}, ${3:\$plugin_code}, ${4:\$plugin_file_name})$0

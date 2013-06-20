@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :setStatusDataTo
+# key : setStatusDataTo
+# --
+setStatusDataTo(${1:\$arrProducts}, ${2:\$arrStatus}, ${3:\$arrStatusImage})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :getDelivAddrs
+# key : getDelivAddrs
+# --
+getDelivAddrs(${1:&\$objCustomer}, ${2:&\$objPurchase}, ${3:\$uniqid})$0

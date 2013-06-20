@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :assign
+# key : assign
+# --
+assign(${1:\$val1}, ${2:\$val2})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :assign
+# key : assign
+# --
+assign(${1:\$val1},${2:\$val2})$0

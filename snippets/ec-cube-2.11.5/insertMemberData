@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :insertMemberData
+# key : insertMemberData
+# --
+insertMemberData(${1:\$arrMemberData})$0

@@ -1,0 +1,12 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistCustomerData
+# key : lfRegistCustomerData
+# --
+lfRegistCustomerData(${1:\$sqlval})$0
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfRegistCustomerData
+# key : lfRegistCustomerData
+# --
+lfRegistCustomerData(${1:&\$objFormParam}, ${2:\$customer_id})$0

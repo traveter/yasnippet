@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfIsInt
+# key : sfIsInt
+# --
+sfIsInt(${1:\$value})$0

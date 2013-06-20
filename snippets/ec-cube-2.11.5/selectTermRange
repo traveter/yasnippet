@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :selectTermRange
+# key : selectTermRange
+# --
+selectTermRange(${1:\$from_year}, ${2:\$from_month}, ${3:\$from_day}, ${4:\$to_year}, ${5:\$to_month}, ${6:\$to_day}, ${7:\$column})$0

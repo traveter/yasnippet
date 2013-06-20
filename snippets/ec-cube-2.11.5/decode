@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :decode
+# key : decode
+# --
+decode(${1:\$str})$0

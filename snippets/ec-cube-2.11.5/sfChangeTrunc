@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :sfChangeTrunc
+# key : sfChangeTrunc
+# --
+sfChangeTrunc(${1:\$sql})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :clearShipmentItemTemp
+# key : clearShipmentItemTemp
+# --
+clearShipmentItemTemp(${1:\$shipping_id = null})$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :lfSendRegistMail
+# key : lfSendRegistMail
+# --
+lfSendRegistMail(${1:\$registSecretKey})$0

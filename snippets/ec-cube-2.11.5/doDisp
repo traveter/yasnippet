@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :doDisp
+# key : doDisp
+# --
+doDisp(${1:&\$objFormParam})$0

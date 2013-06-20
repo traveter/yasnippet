@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :addProductAfterCategories
+# key : addProductAfterCategories
+# --
+addProductAfterCategories(${1:\$category_id}, ${2:\$product_id})$0

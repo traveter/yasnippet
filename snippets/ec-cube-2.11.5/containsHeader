@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :containsHeader
+# key : containsHeader
+# --
+containsHeader(${1:\$name})$0

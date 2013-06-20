@@ -1,0 +1,6 @@
+# -*- mode: snippet -*- 
+# contributor : traveler
+# name :addDebugMsg
+# key : addDebugMsg
+# --
+addDebugMsg(${1:\$debugMsg})$0
